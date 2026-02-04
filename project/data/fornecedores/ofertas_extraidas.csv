@@ -1,4 +1,76 @@
 fornecedor,nome_pdf,embalagem_kg,preco_por_kg,tipo_preco
+fornecedor1,AÇAFRÃO(CÚRCUMÃ)POPUROISENTO,25.0,19.0,menor_preco
+fornecedor1,AÇAFRÃO(CÚRCUMÃ)POPUROISENTO,10.0,21.1,menor_preco
+fornecedor1,CANELAPOPURAAGRIM,10.0,43.2,menor_preco
+fornecedor1,CANELAPOPURAAGRIM,25.0,38.9,menor_preco
+fornecedor1,CANELAPOPURA,25.0,19.5,menor_preco
+fornecedor1,COENTROPÓPUROISENTO,10.0,10.0,menor_preco
+fornecedor1,COMINHOPOPURO,25.0,10.5,menor_preco
+fornecedor1,COMINHOPOPURO,10.0,12.3,menor_preco
+fornecedor1,COMINHOPUROC/PIMENTAPURA,10.0,22.8,menor_preco
+fornecedor1,CRAVOPÓPURO,10.0,32.0,menor_preco
+fornecedor1,GENGIBREPÓPUROISENTO,10.0,35.9,menor_preco
+fornecedor1,LINHAÇAMARROMFARINHA,10.0,11.4,menor_preco
+fornecedor1,LINHAÇADOURADAFARINHA,10.0,12.0,menor_preco
+fornecedor1,LOUROPÓPUROTURCOISENTO,10.0,15.0,menor_preco
+fornecedor1,MOSTARDAAMARELAEMPÓPURAISENTO,10.0,28.9,menor_preco
+fornecedor1,NOZMOSCADAPOPURA,10.0,60.3,menor_preco
+fornecedor1,PIMENTABRANCAPOPURA,10.0,74.6,menor_preco
+fornecedor1,PIMENTACAIENA,10.0,14.0,menor_preco
+fornecedor1,PIMENTAJAMAICAPÓPURA,10.0,85.0,menor_preco
+fornecedor1,PIMENTAPRETAPOPURA,25.0,41.8,menor_preco
+fornecedor1,PIMENTAPRETAPOPURA,10.0,49.0,menor_preco
+fornecedor1,PIMENTAVERMELHAMOIDAPURA(CALABRESA),10.0,21.0,menor_preco
+fornecedor1,AÇAFRÃO(CURCUMA)FECULADO,25.0,7.9,menor_preco
+fornecedor1,CANELAPÓFECULADA,25.0,10.4,menor_preco
+fornecedor1,CANELAC/ACUCAR,25.0,34.8,menor_preco
+fornecedor1,COMINHOFECULADOISENTO,25.0,7.6,menor_preco
+fornecedor1,COMINHOFECULADOISENTO FARDO10X1KG R$ 9.60 R$ 9.60 R$ 9.60,1.0,9.6,menor_preco
+fornecedor1,NOZMOSCADAFECULADA,10.0,17.9,menor_preco
+fornecedor1,PIMENTABRANCAFECULADA,10.0,19.0,menor_preco
+fornecedor1,PIMENTAPRETAFECULADA,25.0,7.6,menor_preco
+fornecedor1,PIMENTAPRETAFECULADA FARDO10X1KG R$ 9.60 R$ 9.60 R$ 9.60,1.0,9.6,menor_preco
+fornecedor1,AROMAFUMAÇAPÓ,10.0,20.87,menor_preco
+fornecedor1,EXTRATOOLEOSODEURUCUM GALÃO20KG R$ 58.80 R$ 62.20 R$ 68.20,20.0,58.8,menor_preco
+fornecedor1,FENOGREGO,50.0,11.5,menor_preco
+fornecedor1,LOUROTURCOTRITURADOISENTO,10.0,15.2,menor_preco
+fornecedor1,PIMENTAVERMELHAFLOCOS(CALABRESA),25.0,18.6,menor_preco
+fornecedor1,CALDOGALINHA,10.0,5.4,menor_preco
+fornecedor1,CALDOCARNE,10.0,4.5,menor_preco
+fornecedor1,CEBOLA/ALHO/SALSA,10.0,24.6,menor_preco
+fornecedor1,COLORAUEXTRA,50.0,4.75,menor_preco
+fornecedor1,COLORAUEXTRA,25.0,4.95,menor_preco
+fornecedor1,COLORAUEXTRA FARDO10X1KG R$ 6.30 R$ 6.30 R$ 6.30,1.0,6.3,menor_preco
+fornecedor1,COLORAUESPECIAL,25.0,6.2,menor_preco
+fornecedor1,CURRYINDIANO,10.0,24.2,menor_preco
+fornecedor1,ERVASFINAS,10.0,19.9,menor_preco
+fornecedor1,LEMONHERBS,10.0,13.3,menor_preco
+fornecedor1,LEMONPEPPER,10.0,9.7,menor_preco
+fornecedor1,MOLHOTARTARO,10.0,21.1,menor_preco
+fornecedor1,PAPRICADOCE,25.0,9.5,menor_preco
+fornecedor1,PAPRICADOCE,10.0,9.6,menor_preco
+fornecedor1,PAPRICAPICANTE,25.0,11.2,menor_preco
+fornecedor1,PAPRICAPICANTE,10.0,11.3,menor_preco
+fornecedor1,PAPRICADEFUMADA,25.0,13.5,menor_preco
+fornecedor1,PAPRICADEFUMADA,10.0,13.6,menor_preco
+fornecedor1,SALPARRILA,25.0,2.3,menor_preco
+fornecedor1,SALPARRILAC/ERVASFINAS,10.0,3.8,menor_preco
+fornecedor1,SALPARRILAC/CHIMICHURRI,10.0,4.9,menor_preco
+fornecedor1,TEMPEROBAIANO,25.0,13.3,menor_preco
+fornecedor1,TEMPEROBAIANO,10.0,14.8,menor_preco
+fornecedor1,TEMPEROSÍRIO,10.0,62.0,menor_preco
+fornecedor1,TEMPEROTIPOANAMARIA,10.0,13.1,menor_preco
+fornecedor1,TEMPEROBESTBEEF,10.0,7.5,menor_preco
+fornecedor1,TEMPEROBESTCHICKEN,10.0,9.2,menor_preco
+fornecedor1,TEMPEROCARNESUINAMINAS,10.0,15.2,menor_preco
+fornecedor1,TEMPEROPEGAMARIDO,10.0,11.2,menor_preco
+fornecedor1,TEMPEROSABOROSOBIFE,10.0,21.5,menor_preco
+fornecedor1,TEMPEROSABOROSOFRANGO,10.0,13.2,menor_preco
+fornecedor1,TEMPEROSABOROSOFEIJÃO,10.0,17.5,menor_preco
+fornecedor1,TEMPEROTIPOCHIMICHURRIC/PIMENTA,10.0,28.5,menor_preco
+fornecedor1,TEMPEROTIPOCHIMICHURRIS/PIMENTA,10.0,28.7,menor_preco
+fornecedor1,TEMPEROTIPOEDUGUEDESPREMIUM,10.0,15.1,menor_preco
+fornecedor1,VINAGRETE,10.0,28.6,menor_preco
 fornecedor2,"Kg R$ 15,65 R$ 16,28 APERITIVOS CAIXA) AMENDOIM CROCANTE SABOR CHURRASCO (QUILO) 1 Kg R$ 17,61 R$ 18,31 APERITIVOS AMENDOIM CROCANTE SABOR MOSTARDA E MEL (QUILO) 1 Kg R$ 17,61 R$ 18,31 APERITIVOS AMENDOIM DOCE PRALINE (CAIXA) 5 Kg R$ 16,05 R$ 16,69 DOCES AMENDOIM DOCE PRALINE (MEIA-CAIXA) 2 Kg R$ 18,41 R$ 19,15 DOCES AMENDOIM DOCE PRALINE (QUILO) 1 Kg R$ 20,53 R$ 21,35 DOCES AMENDOIM HPS CRU (VERMELHO) (CAIXA) 10 Kg R$ 23,46 R$ 24,40 OLEAGINOSAS AMENDOIM HPS CRU (VERMELHO) (MEIA-CAIXA) 5 Kg R$ 26,91 R$ 27,99 OLEAGINOSAS AMENDOIM HPS CRU (VERMELHO) (QUILO) 1 Kg R$ 30,02 R$ 31,22 OLEAGINOSAS AMENDOIM RUNNER CRU (MEIA-CAIXA) 5 Kg R$ 11,59 R$ 12,05 OLEAGINOSAS AMENDOIM RUNNER CRU (QUILO) 1 Kg R$ 13,05 R$ 13,57 OLEAGINOSAS AMENDOIM TORRADO COM PELE COM ALHO (CAIXA) 5 Kg R$ 17,45 R$ 18,15 OLEAGINOSAS AMENDOIM TORRADO COM PELE COM ALHO (MEIA-",5.0,13.05,outros_estados
 fornecedor2,"Un R$ 121,97 R$ 126,85 CONSERVAS (UNIDADE) AZEITONA PRETA C/ CAROÇO AZAPA 90/110 2KG (CAIXA) 4 Un R$ 113,84 R$ 118,39 CONSERVAS AZEITONA PRETA C/ CAROÇO AZAPA 90/110 2KG",2.0,121.97,outros_estados
 fornecedor2,"Un R$ 6,64 R$ 6,91 DOCES FLORA 40GR (UNIDADE) BANANA CHIPS C/ SAL E ORÉGANO (CAIXA) 12 Kg R$ 33,26 R$ 34,59 APERITIVOS BANANA CHIPS C/ SAL E ORÉGANO (MEIA-CAIXA) 2 Kg R$ 37,70 R$ 39,21 APERITIVOS BANANA CHIPS C/ SAL E ORÉGANO (QUILO) 1 Kg R$ 41,64 R$ 43,31 APERITIVOS BANANA CRISTALIZADA (CAIXA) 5 Kg R$ 30,85 R$ 32,08 DOCES BANANA CRISTALIZADA (MEIA-CAIXA) 3 Kg R$ 34,96 R$ 36,36 DOCES BANANA CRISTALIZADA (QUILO) 1 Kg R$ 38,62 R$ 40,16 DOCES BANANA PASSA (CAIXA) 10 Kg R$ 23,80 R$ 24,75 FRUTAS SECAS BANANA PASSA (MEIA-CAIXA) 5 Kg R$ 27,30 R$ 28,39 FRUTAS SECAS BANANA PASSA (QUILO) 1 Kg R$ 30,45 R$ 31,67 FRUTAS SECAS BARBATIMÃO RASURADO (QUILO) 1 Kg R$ 19,37 R$ 20,14 CHÁS BARDANA EM FOLHAS (QUILO) 1 Kg R$ 29,84 R$ 31,03 CHÁS BATATA BAROA CHIPS 500G (CAIXA) 5 Un R$ 53,25 R$ 55,38 APERITIVOS BATATA BAROA CHIPS 500G (UNIDADE) 1 Un R$ 65,17 R$ 67,78 APERITIVOS BATATA BAROA CHIPS SALGADA 500G (CAIXA) 5 Un R$ 53,79 R$ 55,94 APERITIVOS BATATA BAROA CHIPS SALGADA 500G (UNIDADE) 1 Un R$ 64,30 R$ 66,87 APERITIVOS BATATA DOCE CHIPS SABOR PÁPRICA DEFUMADA 500G",12.0,53.79,outros_estados
@@ -35,3 +107,1186 @@ fornecedor2,"Un R$ 36,79 R$ 38,26 APERITIVOS (UNIDADE) SALGADINHO PASTELZINHO SA
 fornecedor2,"Un R$ 37,97 R$ 39,49 APERITIVOS (UNIDADE) SALGADINHO RÚSTICA SABOR CHURRASCO (QUILO) 1 Kg R$ 32,03 R$ 33,31 APERITIVOS SALGADINHO RÚSTICA SABOR PIMENTA (CAIXA) 6 Kg R$ 25,05 R$ 26,05 APERITIVOS SALGADINHO RÚSTICA SABOR PIMENTA (MEIA-CAIXA) 2 Kg R$ 28,74 R$ 29,89 APERITIVOS SALGADINHO RÚSTICA SABOR PIMENTA (QUILO) 1 Kg R$ 32,05 R$ 33,33 APERITIVOS SALSA DESIDRATADA EM FLOCOS (CAIXA) 25 Kg R$ 6,11 R$ 6,35 ESPECIARIAS SALSA DESIDRATADA EM FLOCOS (MEIA-CAIXA) 5 Kg R$ 7,23 R$ 7,52 ESPECIARIAS SALSA DESIDRATADA EM FLOCOS (QUILO) 1 Kg R$ 8,26 R$ 8,59 ESPECIARIAS SÁLVIA DESIDRATADA EM FOLHAS (CAIXA) 20 Kg R$ 12,66 R$ 13,17 ESPECIARIAS SÁLVIA DESIDRATADA EM FOLHAS (MEIA-CAIXA) 4 Kg R$ 14,69 R$ 15,28 ESPECIARIAS SÁLVIA DESIDRATADA EM FOLHAS (QUILO) 1 Kg R$ 16,54 R$ 17,20 ESPECIARIAS SEMENTE DE ABÓBORA C/ CASCA CRUA (CAIXA) 25 Kg R$ 23,46 R$ 24,40 OLEAGINOSAS SEMENTE DE ABÓBORA C/ CASCA CRUA (MEIA-CAIXA) 5 Kg R$ 26,91 R$ 27,99 OLEAGINOSAS SEMENTE DE ABÓBORA C/ CASCA CRUA (QUILO) 1 Kg R$ 30,02 R$ 31,22 OLEAGINOSAS SEMENTE DE ABÓBORA C/ CASCA TORRADA E SALGADA",1.0,26.91,outros_estados
 fornecedor2,"Kg R$ 28,92 R$ 30,08 OLEAGINOSAS (QUILO) SEMENTE DE ABÓBORA S/ CASCA CRUA (CAIXA) 25 Kg R$ 23,00 R$ 23,92 OLEAGINOSAS SEMENTE DE ABÓBORA S/ CASCA CRUA (MEIA-CAIXA) 5 Kg R$ 25,65 R$ 26,68 OLEAGINOSAS SEMENTE DE ABÓBORA S/ CASCA CRUA (QUILO) 1 Kg R$ 28,03 R$ 29,15 OLEAGINOSAS SEMENTE DE ABÓBORA S/ CASCA CRUA PREMIUM",1.0,25.65,outros_estados
 fornecedor2,"Kg R$ 178,42 R$ 185,56 FITNESS CAIXA) WHEY PROTEIN ISOLADO 90% SABOR BAUNILHA (QUILO) 1 Kg R$ 188,54 R$ 196,08 FITNESS WHEY PROTEIN ISOLADO 90% SABOR CHOCOLATE",2.0,178.42,outros_estados
+fornecedor3,"Abacaxi Cristalizado 47,50 47,50 50,35 5 kg",5.0,47.5,tabela
+fornecedor3,"Açaí em Pó 84,00 84,00 89,04 5 kg",5.0,84.0,tabela
+fornecedor3,"Açúcar de Coco I 18,80 20,00 21,20 10 kg",10.0,20.0,tabela
+fornecedor3,"Açúcar de Coco I 21,62 23,00 24,38 5 kg",5.0,23.0,tabela
+fornecedor3,"Açúcar Demerara 5,50 5,50 5,83 20 kg",20.0,5.5,tabela
+fornecedor3,"Açúcar Mascavo 6,70 6,70 7,10 10 kg 2227.STAçúcar Mascavo (c/ ST p/ ES / MS /MG/ MT) 7,71 - - 10 kg",10.0,7.1,tabela
+fornecedor3,"Açúcar Mascavo 6,50 6,50 6,89 20 kg 620.ST Açúcar Mascavo (c/ ST p/ ES / MS /MG/ MT) 7,48 - - 20 kg",20.0,6.89,tabela
+fornecedor3,"Alcachofra Coração (6 latas x 1,30kg) - preço por lata I 67,68 72,00 76,32 6 latas",1.3,72.0,tabela
+fornecedor3,"Alcachofra Fundo (6 latas x 1,30kg) - preço por lata I 58,75 62,50 66,25 6 latas",1.3,62.5,tabela
+fornecedor3,"Alcachofra Quartos (6 latas x 1,30kg) - preço por lata I 56,40 60,00 63,60 6 latas",1.3,60.0,tabela
+fornecedor3,"Alecrim S/ ICMS I 7,70 7,70 7,70 25 kg 476.4 Alecrim C/ 4% ICMS I 8,00 8,00 - 25 kg 476.12 Alecrim C/ 12% ICMS I - 8,60 - 25 kg",25.0,476.12,tabela
+fornecedor3,"Alecrim S/ ICMS I 8,50 8,50 8,50 5 kg 2073.4 Alecrim C/ 4% ICMS I 8,80 8,80 - 5 kg 2073.12 Alecrim C/ 12% ICMS I - 9,50 - 5 kg",5.0,2073.12,tabela
+fornecedor3,"Alho em Flocos I 25,22 26,00 26,00 25 kg",25.0,26.0,tabela
+fornecedor3,"Alho em Pó CHINÊS I 11,25 11,60 11,60 25 kg",25.0,11.6,tabela
+fornecedor3,"Alho Frito (ALLWIN ) I 14,94 15,40 15,40 10kg",10.0,15.4,tabela
+fornecedor3,"Alho Granulado (ALLWIN ) I 20,56 21,20 21,20 25 kg",25.0,21.2,tabela
+fornecedor3,"Alho Poro em Flocos I 23,03 24,50 25,97 10 kg",10.0,24.5,tabela
+fornecedor3,"Amaciante de Carne 5,20 5,20 5,51 10 kg",10.0,5.2,tabela
+fornecedor3,"Ameixa S/ Caroço 88/ 110 I 24,25 25,80 27,35 10 kg",10.0,25.8,tabela
+fornecedor3,"Ameixa S/ Caroço 110/ 132 I 24,06 25,60 27,14 10 kg",10.0,25.6,tabela
+fornecedor3,"Ameixa S/ Caroço 132/ 154 I 22,84 24,30 25,76 10 kg",10.0,24.3,tabela
+fornecedor3,"Ameixa S/ Caroço Elliot I 22,56 24,00 25,44 10 kg",10.0,24.0,tabela
+fornecedor3,"Amêndoas Brancas C/ Fina Camada de Açúcar I 31,02 33,00 34,98 10kg",10.0,33.0,tabela
+fornecedor3,"Amêndoas Coloridas C/ Fina Camada de Açúcar I 31,02 33,00 34,98 10kg",10.0,33.0,tabela
+fornecedor3,"Amêndoas Cruas S/ Casca 30/ 32 I 53,11 56,50 59,89 22,68 kg",22.68,59.89,tabela
+fornecedor3,"Amêndoas Defumadas (Premium D) I 57,34 61,00 64,66 10 kg",10.0,61.0,tabela
+fornecedor3,"Amêndoas Farinha Calconut I 67,77 72,10 76,43 10 kg",10.0,72.1,tabela
+fornecedor3,"Amêndoas Laminadas Calconut I 70,50 75,00 79,50 10 kg",10.0,75.0,tabela
+fornecedor3,"Amêndoas Torradas & Salgadas (Select S) I 55,46 59,00 62,54 10 kg",10.0,59.0,tabela
+fornecedor3,"Amêndoas Torradas S/ Sal (Select SS) I 55,46 59,00 62,54 10 kg",10.0,59.0,tabela
+fornecedor3,"Amendoim Cru HPS EXTRA (38/42) (Com Certificado) 23,52 21,00 22,26 25 kg",25.0,21.0,tabela
+fornecedor3,"Amendoim Cru Runner 7,39 6,60 7,00 25 kg",25.0,6.6,tabela
+fornecedor3,"Amendoim Cru C/ Casca 6,94 6,20 6,57 25 kg Tabela válida até 31/10/2025 Venda minima: R$ 800,00 OBS: Favor enviarem os pedidos com o preço por quilo OBS; Para entregas paletizadas, favor considerar o valor de R$ 40,00 por palete OBS: Para pagamento a vista, conceder 2% de desconto Tabela N° 44 www.jtcd.com.br Preços sujeitos a alterações sem prévio aviso 24/10/2025 Valor minimo para entrega: R$ 1600,00 Não entregamos em transportadoras Outros Em SP - Em SP Produtos Estados Simples Embalagem p/kg p/kg Nacional",25.0,40.0,tabela
+fornecedor3,"Amendoim Crocante Natural 14,30 14,30 15,16 10 kg",10.0,14.3,tabela
+fornecedor3,"Amendoim Crocante Picante 14,30 14,30 15,16 10 kg",10.0,14.3,tabela
+fornecedor3,"Amendoim Crocante Salsa & Cebola 14,30 14,30 15,16 10 kg",10.0,14.3,tabela
+fornecedor3,"Amendoim Doce Praliné 16,80 16,80 17,81 10 kg",10.0,16.8,tabela
+fornecedor3,"Amendoim Graúdo C/ Pele Torrado & Salgado 13,50 13,50 14,31 10 kg",10.0,13.5,tabela
+fornecedor3,"Amendoim Graúdo C/ Pele Torrado Sem Sal 13,80 13,80 14,63 10kg",10.0,13.8,tabela
+fornecedor3,"Amendoim S/ Pele Torrado & Salgado 12,30 12,30 13,04 10 kg",10.0,12.3,tabela
+fornecedor3,"Amendoim S/ Pele Torrado S/ Sal 12,00 12,00 12,72 10 kg",10.0,12.0,tabela
+fornecedor3,"Amido de Milho 4,00 4,00 4,24 25 kg",25.0,4.0,tabela
+fornecedor3,"Anis Estrelado S/ ICMS I 34,50 34,50 34,50 10 kg 461.4 Anis Estrelado C/ 4% ICMS I 35,90 35,90 - 10 kg 461.12 Anis Estrelado C/ 12% ICMS I - 38,60 - 10 kg",10.0,461.12,tabela
+fornecedor3,"Aveia em Flocos Finos 5,00 5,00 5,30 25 kg",25.0,5.0,tabela
+fornecedor3,"Aveia em Flocos Grossos 5,00 5,00 5,30 25 kg",25.0,5.0,tabela
+fornecedor3,"Avelãs S/ Casca Cruas 11/13 (com pele ) I 84,22 89,60 94,98 10 kg",10.0,89.6,tabela
+fornecedor3,"Avelãs S/ Casca Torradas (com pele ) I 86,20 91,70 97,20 10 kg",10.0,91.7,tabela
+fornecedor3,"Avelãs Sem Pele Torradas I 96,35 102,50 108,65 10 kg",10.0,102.5,tabela
+fornecedor3,"Azeitona AZAPA 90/ 110 I 41,36 44,00 46,64 60 kg",60.0,44.0,tabela
+fornecedor3,"Azeitona AZAPA 110/ 130 I 39,01 41,50 43,99 60 kg",60.0,41.5,tabela
+fornecedor3,"Azeitona AZAPA 110/ 130 I 41,36 44,00 46,64 15 kg",15.0,44.0,tabela
+fornecedor3,"Azeitona AZAPA 160/ 200 I 32,90 35,00 37,10 60 kg",60.0,35.0,tabela
+fornecedor3,"Azeitona AZAPA 160/ 200 I 38,54 41,00 43,46 15 kg",15.0,41.0,tabela
+fornecedor3,"Azeitona AZAPA 160/ 200 - 4 x 2kg I 39,48 42,00 44,52 8 kg",2.0,42.0,tabela
+fornecedor3,"Azeitona AZAPA 200/ 240 I 30,08 32,00 33,92 60 kg",60.0,32.0,tabela
+fornecedor3,"Azeitona AZAPA 200/ 240 I 34,78 37,00 39,22 15 kg",15.0,37.0,tabela
+fornecedor3,"Azeitona AZAPA 200/ 240 - 4 x 2kg I 35,72 38,00 40,28 8 kg",2.0,38.0,tabela
+fornecedor3,"Azeitona AZAPA 240/ 280 I 28,20 30,00 31,80 60 kg",60.0,30.0,tabela
+fornecedor3,"Azeitona AZAPA 240/ 280 - 4 x 2kg I 31,96 34,00 36,04 8 kg",2.0,34.0,tabela
+fornecedor3,"Azeitona Preta Fatiada I 25,85 27,50 29,15 140 kg",140.0,27.5,tabela
+fornecedor3,"Azeitona Preta Fatiada Argentina Natural I 30,55 32,50 34,45 14 kg",14.0,32.5,tabela
+fornecedor3,"Azeitona Preta Fatiada - 4 x 2 kg I 31,02 33,00 34,98 8 kg",2.0,33.0,tabela
+fornecedor3,"Azeitona Preta S/ Caroço Natural I 26,32 28,00 29,68 130 kg",130.0,28.0,tabela
+fornecedor3,"Azeitona Preta S/ Caroço Natural I 31,49 33,50 35,51 14 kg",14.0,33.5,tabela
+fornecedor3,"Azeitona Preta S/ Caroço - 4 x 2 kg I 31,96 34,00 36,04 8 kg Tabela válida até 31/10/2025 Venda minima: R$ 800,00 OBS: Favor enviarem os pedidos com o preço por quilo OBS; Para entregas paletizadas, favor considerar o valor de R$ 40,00 por palete OBS: Para pagamento a vista, conceder 2% de desconto Tabela N° 44 www.jtcd.com.br Preços sujeitos a alterações sem prévio aviso 24/10/2025 Valor minimo para entrega: R$ 1600,00 Não entregamos em transportadoras Outros Em SP - Em SP Produtos Estados Simples Embalagem p/kg p/kg Nacional",2.0,40.0,tabela
+fornecedor3,"Azeitona Verde C/ Caroço 16/ 20 I 21,62 23,00 24,38 15 kg",15.0,23.0,tabela
+fornecedor3,"Azeitona Verde C/ Caroço 16/ 20 4 X 2kg I 22,56 24,00 25,44 8 kg",2.0,24.0,tabela
+fornecedor3,"Azeitona Verde C/ Caroço 20/ 24 I 13,63 14,50 15,37 60 kg",60.0,14.5,tabela
+fornecedor3,"Azeitona Verde C/ Caroço 20/ 24 I 16,45 17,50 18,55 15 kg",15.0,17.5,tabela
+fornecedor3,"Azeitona Verde C/ Caroço 20/ 24 - 4 x 2 kg I 17,39 18,50 19,61 8 kg",2.0,18.5,tabela
+fornecedor3,"Azeitona Verde C/ Caroço 24/ 28 I 13,07 13,90 14,73 60 kg",60.0,13.9,tabela
+fornecedor3,"Azeitona Verde C/ Caroço 24/ 28 I 15,98 17,00 18,02 15 kg",15.0,17.0,tabela
+fornecedor3,"Azeitona Verde C/ Caroço 24/ 28 - 4 x 2 kg I 16,92 18,00 19,08 8 kg",2.0,18.0,tabela
+fornecedor3,"Azeitona Verde C/ Caroço 28/ 32 I 12,97 13,80 14,63 60 kg",60.0,13.8,tabela
+fornecedor3,"Azeitona Verde C/ Caroço 28/ 32 I 15,89 16,90 17,91 15 kg",15.0,16.9,tabela
+fornecedor3,"Azeitona Verde C/ Caroço 28/ 32 - 4 x 2 kg I 16,83 17,90 18,97 8 kg",2.0,17.9,tabela
+fornecedor3,"Azeitona Verde C/ Caroço Gordal 100/120 (Azizi - Egípcia) - 160kg I 16,45 17,50 18,55 160kg",160.0,17.5,tabela
+fornecedor3,"Azeitona Verde C/ Caroço Gordal 100/120 (Azizi - Egípcia) - 15kg I 18,33 19,50 20,67 15kg",15.0,19.5,tabela
+fornecedor3,"Azeitona Verde Fatiada I 23,03 24,50 25,97 150 kg",150.0,24.5,tabela
+fornecedor3,"Azeitona Verde Fatiada I 25,38 27,00 28,62 14 kg",14.0,27.0,tabela
+fornecedor3,"Azeitona Verde Fatiada - 4 x 2 kg I 26,32 28,00 29,68 8 kg",2.0,28.0,tabela
+fornecedor3,"Azeitona Verde Recheada I 24,91 26,50 28,09 160kg",160.0,26.5,tabela
+fornecedor3,"Azeitona Verde Recheada I 26,32 28,00 29,68 14 kg",14.0,28.0,tabela
+fornecedor3,"Azeitona Verde Recheada 4 x 2 kg I 26,79 28,50 30,21 8 kg",2.0,28.5,tabela
+fornecedor3,"Azeitona Verde S/ Caroço I 24,44 26,00 27,56 145kg",145.0,26.0,tabela
+fornecedor3,"Azeitona Verde S/ Caroço I 26,79 28,50 30,21 14 kg",14.0,28.5,tabela
+fornecedor3,"Azeitona Verde S/ Caroço 4 x 2 kg I 27,26 29,00 30,74 8 kg",2.0,29.0,tabela
+fornecedor3,"Banana Barrinha COM açúcar 26,00 26,00 27,56 8 kg",8.0,26.0,tabela
+fornecedor3,"Banana Barrinha SEM açúcar 35,00 35,00 37,10 8 kg",8.0,35.0,tabela
+fornecedor3,"Banana Chips Doce (açúcar e canela) - (30 un. x 400 gramas) 33,80 33,80 35,83 12 kg",12.0,33.8,tabela
+fornecedor3,"Banana Chips Lemon Pepper (30 un x 400 gramas) 33,00 33,00 34,98 12 kg",12.0,33.0,tabela
+fornecedor3,"Banana Chips Salgada - (30 un. x 400 gramas) 33,80 33,80 35,83 12 kg",12.0,33.8,tabela
+fornecedor3,"Banana Passa 24,50 24,50 25,97 10 kg",10.0,24.5,tabela
+fornecedor3,"Bicarbonato de Amônio 5,40 5,40 5,40 25 kg",25.0,5.4,tabela
+fornecedor3,"Bicarbonato de Sódio I 4,42 4,70 4,70 25 kg",25.0,4.7,tabela
+fornecedor3,"BlueBerry I 94,00 100,00 106,00 11,34 kg 1418.STBlueBerry Com S/T para AL / MG I 126,00 11,34 kg",11.34,126.0,tabela
+fornecedor3,"Boldo Chileno S/ ICMS I 23,00 23,00 23,00 25 kg 219.4 Boldo Chileno C/ 4% ICMS I 23,90 23,90 - 25 kg 219.12 Boldo Chileno C/ 12% ICMS I - 25,80 - 25 kg",25.0,219.12,tabela
+fornecedor3,"Boldo Chileno S/ ICMS I 24,00 24,00 24,00 5 kg 1556.4 Boldo Chileno C/ 4% ICMS I 25,00 25,00 - 5 kg Tabela válida até 31/10/2025 Venda minima: R$ 800,00 OBS: Favor enviarem os pedidos com o preço por quilo OBS; Para entregas paletizadas, favor considerar o valor de R$ 40,00 por palete OBS: Para pagamento a vista, conceder 2% de desconto Tabela N° 44 www.jtcd.com.br Preços sujeitos a alterações sem prévio aviso 24/10/2025 Valor minimo para entrega: R$ 1600,00 Não entregamos em transportadoras Outros Em SP - Em SP Produtos Estados Simples Embalagem p/kg p/kg Nacional 1556.12 Boldo Chileno C/ 12% ICMS I - 26,90 - 5 kg",5.0,1556.12,tabela
+fornecedor3,"Cacau em Pó Alcalino 37,00 37,00 39,22 25 kg",25.0,37.0,tabela
+fornecedor3,"Caldo de Bacon 5,10 5,10 5,41 10 kg",10.0,5.1,tabela
+fornecedor3,"Caldo de Carne 5,00 5,00 5,30 10 kg",10.0,5.0,tabela
+fornecedor3,"Caldo de Galinha 5,10 5,10 5,41 10 kg",10.0,5.1,tabela
+fornecedor3,"Caldo de Legumes 5,20 5,20 5,51 10 kg",10.0,5.2,tabela
+fornecedor3,"Camomila Nacional S/ ICMS 27,50 27,50 27,50 10 kg 188.7 Camomila Nacional C/ 7% ICMS 29,40 29,40 - 10 kg 188.12 Camomila Nacional C/ 12% ICMS - 30,80 - 10 kg",10.0,188.12,tabela
+fornecedor3,"Camomila Nacional PREMIUM S/ ICMS 29,50 29,50 29,50 10 kg 2008.7 Camomila Nacional PREMIUM C/ 7% ICMS 31,60 31,60 - 10 kg 2008.12 Camomila Nacional PREMIUM C/ 12% ICMS 33,00 33,00 - 10 kg",10.0,33.0,tabela
+fornecedor3,"Canela Corte 6 cm. Vera – AA I 38,73 41,20 43,67 10 kg",10.0,41.2,tabela
+fornecedor3,"Canela em Pó Pura Extra I 12,22 13,00 13,78 10 kg",10.0,13.0,tabela
+fornecedor3,"Canela em Pó PREMIUM 2% óleo essencial I 18,05 19,20 20,35 10 kg",10.0,19.2,tabela
+fornecedor3,"Canela em Pó Feculada I 7,24 7,70 8,16 10 kg",10.0,7.7,tabela
+fornecedor3,"Canela Inteira (Indonésia) I 31,02 33,00 34,98 50 kg",50.0,33.0,tabela
+fornecedor3,"Canela Inteira (Vietnã) I 29,89 31,80 33,71 25 kg",25.0,31.8,tabela
+fornecedor3,"Canela Quebrada (Indonésia) I 20,68 22,00 23,32 25 kg",25.0,22.0,tabela
+fornecedor3,"Canihua Peruana em Grãos I 15,51 16,50 16,50 25 kg",25.0,16.5,tabela
+fornecedor3,"Canjica Branca 3,80 3,80 4,03 30 kg",30.0,3.8,tabela
+fornecedor3,"Capim Limão (Capim Cidreira) IMPORTADO S/ ICMS I 9,30 9,30 9,30 25 kg 1574.4 Capim Limão (Capim Cidreira) IMPORTADO C/ 4% ICMS I 9,70 9,70 25 kg 1574.12 Capim Limão (Capim Cidreira) IMPORTADO C/ 12% ICMS I 10,40 10,40 25 kg 1574.S/TCapim Limão IMPORTADO (C/ ST p/ AC/ AL/ AM/ MG/ MS/ RJ / MT ) I 11,72 - 25 kg",25.0,10.4,tabela
+fornecedor3,"Capim Limão (Capim Cidreira) S/ ICMS 11,00 11,00 11,00 15 kg 1290.7 Capim Limão (Capim Cidreira) C/ 7% ICMS 11,80 11,80 15 kg 1290.12 Capim Limão (Capim Cidreira) C/ 12% ICMS 12,30 12,30 15 kg 1290.STCapim Limão (C/ ST p/ AC/ AL/ AM/ MG/ MS/ RJ / MT ) 13,09 - 15 kg",15.0,12.3,tabela
+fornecedor3,"Carqueja Amarga 8,50 8,50 9,01 10 kg",10.0,8.5,tabela
+fornecedor3,"Carqueja Doce 6,90 6,90 7,31 10 kg",10.0,6.9,tabela
+fornecedor3,"Castanha de Cajú BANDA Torrada & Salgada 44,80 44,80 47,49 11,34 kg",11.34,47.49,tabela
+fornecedor3,"Castanha de Cajú BANDA Torrada S/ Sal 44,80 44,80 47,49 11,34 kg",11.34,47.49,tabela
+fornecedor3,"Castanha de Cajú Caramelizada 37,00 37,00 39,22 10 kg",10.0,37.0,tabela
+fornecedor3,"Castanha de Cajú Caramelizada Com Gergelim 37,00 37,00 39,22 10 kg",10.0,37.0,tabela
+fornecedor3,"Castanha de Cajú SLW1 Crua 66,50 66,50 70,49 11,34 kg",11.34,70.49,tabela
+fornecedor3,"Castanha de Cajú SLW1 Torrada & Salgada 66,50 66,50 70,49 11,34 kg",11.34,70.49,tabela
+fornecedor3,"Castanha de Cajú SLW1 Torrada S/ Sal 66,50 66,50 70,49 11,34 kg",11.34,70.49,tabela
+fornecedor3,"Castanha de Cajú W1 Crua 57,50 57,50 60,95 11,34 kg",11.34,60.95,tabela
+fornecedor3,"Castanha de Cajú W1 Torrada & Salgada 57,50 57,50 60,95 11,34 kg",11.34,60.95,tabela
+fornecedor3,"Castanha de Cajú W1 Torrada S/ Sal 57,50 57,50 60,95 11,34 kg Tabela válida até 31/10/2025 Venda minima: R$ 800,00 OBS: Favor enviarem os pedidos com o preço por quilo OBS; Para entregas paletizadas, favor considerar o valor de R$ 40,00 por palete OBS: Para pagamento a vista, conceder 2% de desconto Tabela N° 44 www.jtcd.com.br Preços sujeitos a alterações sem prévio aviso 24/10/2025 Valor minimo para entrega: R$ 1600,00 Não entregamos em transportadoras Outros Em SP - Em SP Produtos Estados Simples Embalagem p/kg p/kg Nacional",11.34,40.0,tabela
+fornecedor3,"Castanha de Cajú W3 Torrada & Salgada 53,00 53,00 56,18 11,34 kg",11.34,56.18,tabela
+fornecedor3,"Castanha de Cajú W3 Torrada S/ Sal 53,00 53,00 56,18 11,34 kg",11.34,56.18,tabela
+fornecedor3,"Castanha de Cajú W4 Crua 48,20 48,20 51,09 22,68 kg",22.68,51.09,tabela
+fornecedor3,"Castanha de Cajú W4 Torrada & Salgada 48,20 48,20 51,09 11,34 kg",11.34,51.09,tabela
+fornecedor3,"Castanha de Cajú W4 Torrada S/ Sal 48,20 48,20 51,09 11,34 kg",11.34,51.09,tabela
+fornecedor3,"Castanha do Pará S/ Casca Large 138,00 138,00 146,28 20 kg",20.0,138.0,tabela
+fornecedor3,"Castanha do Pará S/ Casca Média 128,00 128,00 135,68 20 kg",20.0,128.0,tabela
+fornecedor3,"Castanha do Pará S/ Casca Pedaços 110,00 110,00 116,60 20 kg",20.0,110.0,tabela
+fornecedor3,"Catuaba rasurada 9,00 9,00 9,00 10 kg 1726.STCatuaba rasurada (C/ ST AC / AL / AM / AP / DF / ES / MG / MS / RJ ) 10,35 - - 10 kg",10.0,9.0,tabela
+fornecedor3,"Cebola em Flocos Indiana I 13,25 14,10 14,95 14 kg",14.0,14.1,tabela
+fornecedor3,"Cebola em Pó Indiana Extra I 13,54 14,40 15,26 25 kg",25.0,14.4,tabela
+fornecedor3,"Cebola Granulada Indiana Média I 13,07 13,90 14,73 20 kg",20.0,13.9,tabela
+fornecedor3,"Cebola Granulada Indiana Miúda I 13,07 13,90 14,73 20kg",20.0,13.9,tabela
+fornecedor3,"Cebolinha S/ ICMS 22,00 22,00 22,00 10 kg 436.7 Cebolinha C/ 7% ICMS 23,50 23,50 - 10 kg 436.12 Cebolinha C/ 12% ICMS - 24,60 - 10 kg",10.0,436.12,tabela
+fornecedor3,"Cebolinha Cristal 14/16 mm I 15,04 16,00 16,96 180kg",180.0,16.0,tabela
+fornecedor3,"Cebolinha Cristal 21/23 mm I 14,95 15,90 16,85 190kg",190.0,15.9,tabela
+fornecedor3,"Cebolinha Cristal 23/25 mm I 14,10 15,00 15,90 180 kg",180.0,15.0,tabela
+fornecedor3,"Cebolinha Cristal (4 baldes x 2 kg) preço por kg I 17,39 18,50 19,61 8 kg",2.0,18.5,tabela
+fornecedor3,"Cenoura Flocos I 13,07 13,90 14,73 20 kg",20.0,13.9,tabela
+fornecedor3,"Cereja Chilefood em Pedaços - 6 x 2.20 kg I 22,75 24,20 25,65 13,2 kg",2.2,25.65,tabela
+fornecedor3,"Cereja Inteira Chilefood C/ Cabo - 6 x 2.0 kg I 41,83 44,50 47,17 12 kg",2.0,44.5,tabela
+fornecedor3,"Cereja Inteira Chilefood S/ Cabo - 6 x 2.20 kg I 35,53 37,80 40,07 13,2 kg",2.2,40.07,tabela
+fornecedor3,"Cereja Inteira Curicó C/ Cabo - 6 x 1,65 kg I 54,24 57,70 61,16 9,9 kg",1.65,61.16,tabela
+fornecedor3,"Cereja Inteira Curicó S/ Cabo - 6 x 1,80 kg I 44,84 47,70 50,56 10,8 kg",1.8,50.56,tabela
+fornecedor3,"Cereja Inteira Rocofrut C/ Cabo - 6 x 2,1 kg I 39,95 42,50 45,05 12,6 kg",2.1,45.05,tabela
+fornecedor3,"Cereja Inteira Rocofrut S/ Cabo - 6 x 2,2 kg I 34,78 37,00 39,22 13,2 kg",2.2,39.22,tabela
+fornecedor3,"Chá Mate Tostado 14,50 14,50 14,50 10 kg 1723.STChá Mate Tostado (C/ ST p/ AC / AL / AM / AP / DF / ES/ MG / MS / RJ ) 16,68 - - 10 kg",10.0,14.5,tabela
+fornecedor3,"Chá Verde Folha 13,50 13,50 13,50 10 kg 1103.STChá Verde Folha (C/ ST p/ PR / AC / AL / AM / AP / DF / ES/ MG / MS / RJ ) 16,07 - - 10 kg",10.0,13.5,tabela
+fornecedor3,"Chá Verde Flocos IMPORTADO I 16,26 17,30 17,30 10 kg 2091.STChá Verde Flocos IMPORTADO (C/ ST p/ PR/ AC / AL / AM / AP / ES/ DF / MG / MS / RJ ) I 20,59 - - 10 kg",10.0,17.3,tabela
+fornecedor3,"Chá Preto 38,00 38,00 38,00 10 kg 1728.STChá Preto (C/ ST p/ AC / AL / AM / AP / DF / ES/ MG / MS / RJ ) 43,70 - 10 kg",10.0,38.0,tabela
+fornecedor3,"Champignon Fatiado em Conserva I 18,61 19,80 20,99 42 kg",42.0,19.8,tabela
+fornecedor3,"Champignon Fatiado em Conserva - 4 x 2 kg I 23,50 25,00 26,50 8 kg Tabela válida até 31/10/2025 Venda minima: R$ 800,00 OBS: Favor enviarem os pedidos com o preço por quilo OBS; Para entregas paletizadas, favor considerar o valor de R$ 40,00 por palete OBS: Para pagamento a vista, conceder 2% de desconto Tabela N° 44 www.jtcd.com.br Preços sujeitos a alterações sem prévio aviso 24/10/2025 Valor minimo para entrega: R$ 1600,00 Não entregamos em transportadoras Outros Em SP - Em SP Produtos Estados Simples Embalagem p/kg p/kg Nacional",2.0,40.0,tabela
+fornecedor3,"Champignon Inteiro em Conserva - 4 x 2 kg I 28,48 30,30 32,12 8 kg",2.0,30.3,tabela
+fornecedor3,"Cheiro Verde 21,20 21,20 21,20 5 kg",5.0,21.2,tabela
+fornecedor3,"Chia Preta (Salvia Hispânica) - Extra 17,00 17,00 18,02 25 kg",25.0,17.0,tabela
+fornecedor3,"Chimichurri C/ Pimenta 30,00 30,00 31,80 10 kg",10.0,30.0,tabela
+fornecedor3,"Chimichurri Defumado 31,20 31,20 33,07 10 kg",10.0,31.2,tabela
+fornecedor3,"Chimichurri S/ Pimenta 26,30 26,30 27,88 10 kg",10.0,26.3,tabela
+fornecedor3,"Cidra Cristalizada 36,50 36,50 38,69 5 kg",5.0,36.5,tabela
+fornecedor3,"Coco Chips Natural C/ Pele Nacional 48,00 48,00 50,88 5kg",5.0,48.0,tabela
+fornecedor3,"Coco Chips Natural S/ Pele Nacional 48,00 48,00 50,88 5 kg",5.0,48.0,tabela
+fornecedor3,"Coco Flocos Nacional 48,50 48,50 51,41 10 kg",10.0,48.5,tabela
+fornecedor3,"Coco Flocos Nacional 51,50 51,50 54,59 5 kg",5.0,51.5,tabela
+fornecedor3,"Coco Ralado Fino 65% Gordura I 30,55 32,50 34,45 10 kg",10.0,32.5,tabela
+fornecedor3,"Coco Ralado Médio 65% - Importado I 31,49 33,50 35,51 25 kg",25.0,33.5,tabela
+fornecedor3,"Coco Ralado Médio 65% Gordura - Nacional 34,50 34,50 36,57 10 kg",10.0,34.5,tabela
+fornecedor3,"Coentro em Grão Inteiro Argentino S/ ICMS I 6,20 6,20 6,20 25 kg 189.4 Coentro em Grão Inteiro Argentino C/ 4% ICMS I 6,40 6,40 - 25 kg 189.12 Coentro em Grão Inteiro Argentino C/ 12% ICMS I - 6,90 - 25 kg",25.0,189.12,tabela
+fornecedor3,"Coentro em Pó S/ ICMS I 9,50 9,50 9,50 10 kg 493.4 Coentro em Pó C/ 4% ICMS I 9,90 9,90 - 10 kg 493.12 Coentro em Pó C/ 12% ICMS I - 10,60 - 10 kg",10.0,493.12,tabela
+fornecedor3,"Colágeno Hidrolisado - Gelco 56,20 56,20 56,20 15 kg",15.0,56.2,tabela
+fornecedor3,"Colorau 6,00 6,00 6,36 25 kg",25.0,6.0,tabela
+fornecedor3,"Cominho em Pó S/ ICMS I 9,50 9,50 9,50 10 kg 225.4 Cominho em Pó C/ 4% ICMS I 9,90 9,90 - 10 kg 225.12 Cominho em Pó C/ 12% ICMS I - 10,60 - 10 kg",10.0,225.12,tabela
+fornecedor3,"Cominho Indiano em Grãos 95% S/ ICMS I 6,20 6,20 6,20 25 kg 1537.4 Cominho Indiano em Grãos 95% C/ 4% ICMS I 6,40 6,40 - 25 kg 1537.12 Cominho indiano em Grãos 95% C/ 12% ICMS I - 6,90 - 25 kg",25.0,1537.12,tabela
+fornecedor3,"Cominho Indiano em Grãos 99% S/ ICMS I 15,50 15,50 15,50 25kg 647.4 Cominho Indiano em Grãos 99% C/ 4% ICMS I 16,10 16,10 - 25kg 647.12 Cominho Indiano em Grãos 99% C/ 12% ICMS I - 17,40 - 25kg",25.0,647.12,tabela
+fornecedor3,"Cominho Indiano em Grãos PREMIUM S/ ICMS I 25,00 25,00 25,00 5kg 2140.4 Cominho Indiano em Grãos PREMIUM C/ 4% ICMS I 26,00 26,00 - 5kg 2140.12 Cominho Indiano em Grãos PREMIUM C/ 12% ICMS I - 28,00 - 5kg",5.0,2140.12,tabela
+fornecedor3,"Corn Flakes ( Flocos de Milho ) C/Açúcar I 11,50 11,50 11,50 10,5 kg 2099.STCorn Flakes ( Flocos de Milho ) C/Açúcar Com S/T RJ, MT I 13,46 - - 10,5 kg 2099.STCorn Flakes ( Flocos de Milho ) C/Açúcar Com S/T MG, AP, SP I 14,38 14,40 14,40 10,5 kg 2099.STCorn Flakes ( Flocos de Milho ) C/Açúcar Com S/T AL, DF, PR I 15,18 - - 10,5 kg",10.5,15.18,tabela
+fornecedor3,"Corn Flakes ( Flocos de Milho ) C/Açúcar e mel I 13,90 13,90 13,90 10,5 kg 2100.STCorn Flakes ( Flocos de Milho ) C/Açúcar e Mel Com S/T RJ, MT I 16,26 - - 10,5 kg 2100.STCorn Flakes ( Flocos de Milho ) C/Açúcar e Mel Com S/T MG, AP, SP I 17,38 17,40 17,40 10,5 kg 2100.STCorn Flakes ( Flocos de Milho ) C/Açúcar e Mel Com S/T AL, DF, PR I 18,35 - - 10,5 kg",10.5,18.35,tabela
+fornecedor3,"Cranberry Fatiado - Chileno I 28,20 30,00 31,80 11,34 kg Tabela válida até 31/10/2025 Venda minima: R$ 800,00 OBS: Favor enviarem os pedidos com o preço por quilo OBS; Para entregas paletizadas, favor considerar o valor de R$ 40,00 por palete OBS: Para pagamento a vista, conceder 2% de desconto Tabela N° 44 www.jtcd.com.br Preços sujeitos a alterações sem prévio aviso 24/10/2025 Valor minimo para entrega: R$ 1600,00 Não entregamos em transportadoras Outros Em SP - Em SP Produtos Estados Simples Embalagem p/kg p/kg Nacional 1434.STCranberry Fatiado - Chileno Com S/T para AL / MG I 37,80 - - 11,34 kg",11.34,37.8,tabela
+fornecedor3,"Cranberry Inteiro - Chileno I 33,84 36,00 38,16 11,34 kg 1432.STCranberry Inteiro - Chileno Com S/T para AL / MG I 45,36 - - 11,34 kg",11.34,45.36,tabela
+fornecedor3,"Cravo Flor 47,00 47,00 49,82 25 kg",25.0,47.0,tabela
+fornecedor3,"Cravo Flor 51,70 51,70 54,80 10 kg",10.0,51.7,tabela
+fornecedor3,"Cravo em Pó 28,00 28,00 29,68 10 kg",10.0,28.0,tabela
+fornecedor3,"Creatina Monohidratada Nacional 39,80 39,80 42,19 5 kg",5.0,39.8,tabela
+fornecedor3,"Creme de Cebola 8,70 8,70 9,22 10 kg",10.0,8.7,tabela
+fornecedor3,"Crispy Mix Mostarda e Mel (Pepito) I 42,30 45,00 47,70 10 kg",10.0,45.0,tabela
+fornecedor3,"Cúrcuma em Pó PURA IMPORTADA S/ ICMS I 7,90 7,90 7,90 10 kg 1911.4 Cúrcuma em Pó PURA IMPORTADA C/ 4% ICMS I 8,20 8,20 - 10 kg 1911.12 Cúrcuma em Pó PURA IMPORTADA C/ 12% ICMS I - 8,80 - 10 kg",10.0,1911.12,tabela
+fornecedor3,"Cúrcuma Feculada 7,80 7,80 8,27 10 kg",10.0,7.8,tabela
+fornecedor3,"Cúrcuma Raiz Quebrada S/ ICMS I 14,00 14,00 14,00 25 kg 1932.4 Cúrcuma Raiz Quebrada C/ 4% ICMS I 14,60 14,60 25 kg 1932.12 Cúrcuma Raiz Quebrada C/ 12% ICMS I - 15,70 25 kg",25.0,1932.12,tabela
+fornecedor3,"Curry 10,20 10,20 10,81 10 kg",10.0,10.2,tabela
+fornecedor3,"Damasco Turco Cubos I 61,10 65,00 68,90 12,5 kg",12.5,68.9,tabela
+fornecedor3,"Damasco Turco Doce Nº 1 I 92,59 98,50 104,41 12,5 kg",12.5,104.41,tabela
+fornecedor3,"Damasco Turco Doce Nº 2 I 88,92 94,60 100,28 12,5 kg",12.5,100.28,tabela
+fornecedor3,"Endro S/ ICMS I 13,30 13,30 13,30 25 kg 238.4 Endro C/ 4% ICMS I 13,80 13,80 - 25 kg 238.12 Endro C/ 12% ICMS I - 14,90 - 25 kg",25.0,238.12,tabela
+fornecedor3,"Eritritol Cristal I 13,35 14,20 14,20 25 kg",25.0,14.2,tabela
+fornecedor3,"Erva Doce Extra S/ ICMS I 15,50 15,50 15,50 25 kg 1682.4 Erva Doce Extra C/ 4% ICMS I 16,10 16,10 - 25 kg 1682.12 Erva Doce Extra C/ 12% ICMS I 17,40 17,40 - 25 kg",25.0,17.4,tabela
+fornecedor3,"Erva Doce PREMIUM S/ ICMS I 19,00 19,00 19,00 5 kg 2064.4 Erva Doce PREMIUM C/ 4% ICMS I 19,80 19,80 - 5 kg 2064.12 Erva Doce PREMIUM C/ 12% ICMS I - 21,30 - 5 kg",5.0,2064.12,tabela
+fornecedor3,"Erva Mate Grossa 14,00 14,00 14,00 10 kg 1725.STErva Mate Grossa (C/ ST p/ AC / AL / AM / AP / DF / ES / MG / MS / RJ) 16,10 - - 10 kg",10.0,14.0,tabela
+fornecedor3,"Ervas Finas 18,00 18,00 19,08 5 kg",5.0,18.0,tabela
+fornecedor3,"Ervilha Partida PREMIUM Argentina S/ ICMS I 5,80 5,80 5,80 25 kg 1223.4 Ervilha Partida PREMIUM Argentina C/ 4% ICMS I 6,00 6,00 - 25 kg 1223.12 Ervilha Partida PREMIUM Argentina C/ 12% ICMS I - 6,50 - 25 kg",25.0,1223.12,tabela
+fornecedor3,"Extrato de Soja Micronizado - Inabel - - - 20 kg Tabela válida até 31/10/2025 Venda minima: R$ 800,00 OBS: Favor enviarem os pedidos com o preço por quilo OBS; Para entregas paletizadas, favor considerar o valor de R$ 40,00 por palete OBS: Para pagamento a vista, conceder 2% de desconto Tabela N° 44 www.jtcd.com.br Preços sujeitos a alterações sem prévio aviso 24/10/2025 Valor minimo para entrega: R$ 1600,00 Não entregamos em transportadoras Outros Em SP - Em SP Produtos Estados Simples Embalagem p/kg p/kg Nacional",20.0,40.0,tabela
+fornecedor3,"Extrato de Soja - Inabel 25,00 25,00 26,50 20 kg",20.0,25.0,tabela
+fornecedor3,"Farelo de Aveia 5,20 5,20 5,51 25 kg",25.0,5.2,tabela
+fornecedor3,"Farinha de Amêndoa Calconut I 67,77 72,10 76,43 10 kg",10.0,72.1,tabela
+fornecedor3,"Farinha de Amendoim Torrado 12,20 12,20 12,93 10kg",10.0,12.2,tabela
+fornecedor3,"Farinha de Arroz Branco 6,00 6,00 6,36 25 kg",25.0,6.0,tabela
+fornecedor3,"Farinha de Arroz Integral 6,40 6,40 6,78 25 kg",25.0,6.4,tabela
+fornecedor3,"Farinha de Aveia 5,20 5,20 5,51 25 kg",25.0,5.2,tabela
+fornecedor3,"Farinha de Banana Verde 11,60 11,60 12,30 10 kg",10.0,11.6,tabela
+fornecedor3,"Farinha de Batata Doce 15,80 15,80 16,75 10 kg",10.0,15.8,tabela
+fornecedor3,"Farinha de Berinjela 32,80 32,80 34,77 10 kg",10.0,32.8,tabela
+fornecedor3,"Farinha de Beterraba 27,00 27,00 28,62 10 kg",10.0,27.0,tabela
+fornecedor3,"Farinha de Chia Pura (Salvia Hispânica) 8,30 8,30 8,80 10 kg",10.0,8.3,tabela
+fornecedor3,"Farinha de Coco Branca (Fibra) I 16,45 17,50 18,55 10 kg",10.0,17.5,tabela
+fornecedor3,"Farinha de Feijão Branco I 13,25 14,10 14,95 10 kg",10.0,14.1,tabela
+fornecedor3,"Farinha de Grão de Bico I 7,71 8,20 8,69 10 kg",10.0,8.2,tabela
+fornecedor3,"Farinha de Linhaça Dourada Crua I 8,55 9,10 9,65 10 kg",10.0,9.1,tabela
+fornecedor3,"Farinha de Linhaça Marrom Crua I 7,99 8,50 9,01 5 kg",5.0,8.5,tabela
+fornecedor3,"Farinha de Maçã (Fibra) 31,00 31,00 32,86 10 kg",10.0,31.0,tabela
+fornecedor3,"Farinha de Maca Peruana Pura (c/ laudo de origem) I 17,39 18,50 19,61 10 kg",10.0,18.5,tabela
+fornecedor3,"Farinha de Maca Vermelha Peruana (c/ laudo de origem) I 18,80 20,00 21,20 20 kg",20.0,20.0,tabela
+fornecedor3,"Farinha de Maracujá 21,00 21,00 22,26 10 kg",10.0,21.0,tabela
+fornecedor3,"Farinha de Quinua Branca 20,00 20,00 21,20 10 kg",10.0,20.0,tabela
+fornecedor3,"Farinha de Rosca - Marrocos 5,70 5,70 6,04 25 kg",25.0,5.7,tabela
+fornecedor3,"Farinha Panko (8 unid. x 1kg) 16,50 16,50 16,50 8kg 1942.ST1Farinha Panko (8 unid. x 1kg) (para AL/ AP/ MG/ RJ) 18,98 - 8kg 1942.ST2Farinha Panko (8 unid. x 1kg) (para MT/ RS) 21,82 - 8kg",1.0,18.98,tabela
+fornecedor3,"Farinha de Uva 21,90 21,90 23,21 10 kg",10.0,21.9,tabela
+fornecedor3,"Fécula de Batata 8,00 8,00 8,48 25 kg",25.0,8.0,tabela
+fornecedor3,"Feijão Azuki S/ ICMS 8,00 8,00 8,00 25 kg 1697.7 Feijão Azuki C/ 7% ICMS 8,60 8,60 - 25 kg 1697.12 Feijão Azuki C/ 12% ICMS - 9,00 - 25 kg",25.0,1697.12,tabela
+fornecedor3,"Feijão Branco Extra S/ ICMS I 8,00 8,00 8,00 25 kg 1394.4 Feijão Branco Extra C/ 4% ICMS I 8,30 8,30 - 25 kg 1394.12 Feijão Branco Extra C/ 12% ICMS I - 8,90 - 25 kg",25.0,1394.12,tabela
+fornecedor3,"Feijão Fradinho S/ ICMS 4,80 4,80 4,80 30 kg 1616.7 Feijão Fradinho C/ 7% ICMS 5,10 5,10 - 30 kg 1616.12 Feijão Fradinho C/ 12% ICMS - 5,40 - 30 kg",30.0,1616.12,tabela
+fornecedor3,"Feijão Moyashi S/ ICMS 6,90 6,90 6,90 30 kg 2151.7 Feijão Moyashi C/ 7% ICMS 7,40 7,40 - 30 kg 2151.12 Feijão Moyashi C/ 12% ICMS 7,70 7,70 - 30 kg",30.0,7.7,tabela
+fornecedor3,"Feijão Moyashi Preto S/ ICMS 6,30 6,30 6,30 30 kg 2215.7 Feijão Moyashi Preto C/ 7% ICMS 6,70 6,70 - 30 kg 2215.12 Feijão Moyashi Preto C/ 12% ICMS - 7,10 - 30 kg Tabela válida até 31/10/2025 Venda minima: R$ 800,00 OBS: Favor enviarem os pedidos com o preço por quilo OBS; Para entregas paletizadas, favor considerar o valor de R$ 40,00 por palete OBS: Para pagamento a vista, conceder 2% de desconto Tabela N° 44 www.jtcd.com.br Preços sujeitos a alterações sem prévio aviso 24/10/2025 Valor minimo para entrega: R$ 1600,00 Não entregamos em transportadoras Outros Em SP - Em SP Produtos Estados Simples Embalagem p/kg p/kg Nacional",30.0,40.0,tabela
+fornecedor3,"Feijão Preto S/ ICMS 4,80 4,80 4,80 30 kg 619.7 Feijão Preto C/ 7% ICMS 5,10 5,10 - 30 kg 619.12 Feijão Preto C/ 12% ICMS - 5,40 - 30 kg",30.0,619.12,tabela
+fornecedor3,"Fibra de Maçã (Farinha) 31,00 31,00 32,86 10 kg",10.0,31.0,tabela
+fornecedor3,"Figo Cristalizado 41,50 41,50 43,99 5 kg",5.0,41.5,tabela
+fornecedor3,"Flocos de Milho ( Corn Flakes ) C/Açúcar I 11,50 11,50 11,50 10,5 kg 2099.STFlocos de Milho ( Corn Flakes ) C/Açúcar Com S/T RJ, MT I 13,46 - 10,5 kg 2099.STFlocos de Milho ( Corn Flakes ) C/Açúcar Com S/T MG, AP, SP I 14,38 14,40 14,40 10,5 kg 2099.STFlocos de Milho ( Corn Flakes ) C/Açúcar Com S/T AL, DF, PR I 15,18 - 10,5 kg",10.5,15.18,tabela
+fornecedor3,"Flocos de Milho ( Corn Flakes ) C/Açúcar e mel I 13,90 - - 10,5 kg 2100.STFlocos de Milho ( Corn Flakes ) C/Açúcar e Mel Com S/T RJ, MT I 16,26 - 10,5 kg 2100.STFlocos de Milho ( Corn Flakes ) C/Açúcar e Mel Com S/T MG, AP, SP I 17,38 17,40 17,40 10,5 kg 2100.ST Flocos de Milho ( Corn Flakes ) C/Açúcar e Mel Com S/T AL, DF, PR I 18,35 - 10,5 kg",10.5,18.35,tabela
+fornecedor3,"Frutas Cristalizadas Mistas Pérola (em cubinhos) 9,80 9,80 10,39 10 kg",10.0,9.8,tabela
+fornecedor3,"Frutas Cristalizadas Mistas Sicola (em cubinhos) 9,50 9,50 10,07 10 kg",10.0,9.5,tabela
+fornecedor3,"Fumaça em Pó ( 15 Sacos de 1 kg ) 13,00 13,00 13,00 15 kg",1.0,13.0,tabela
+fornecedor3,"Funcho S/ ICMS I 8,30 8,30 8,30 25 kg 192.4 Funcho C/ 4% ICMS I 8,60 8,60 - 25 kg 192.12 Funcho C/ 12% ICMS I - 9,30 - 25 kg",25.0,192.12,tabela
+fornecedor3,"Funghi (cogumelo seco) PREMIUM S/ ICMS I 70,40 70,40 70,40 10kg 534.4 Funghi (cogumelo seco) PREMIUM C/ 4% ICMS I 73,20 73,20 - 10kg 534.12 Funghi (cogumelo seco) PREMIUM C/ 12% ICMS I - 78,80 - 10kg",10.0,534.12,tabela
+fornecedor3,"Funghi (cogumelo seco) S/ ICMS I 65,00 65,00 65,00 5 kg 553.4 Funghi (cogumelo seco) C/ 4% ICMS I 67,60 67,60 - 5kg 553.12 Funghi (cogumelo seco) C/ 12% ICMS I - 72,80 - 5kg",5.0,553.12,tabela
+fornecedor3,"Gelatina em Pó Pura S/ Sabor - Gelco 51,50 51,50 51,50 25 kg",25.0,51.5,tabela
+fornecedor3,"Gengibre Cristalizado 50,00 50,00 53,00 5kg",5.0,50.0,tabela
+fornecedor3,"Gengibre em pó IMPORTADO I 15,04 16,00 16,96 10 kg",10.0,16.0,tabela
+fornecedor3,"Gergelim Natural C/ Casca Nacional 4,70 4,70 4,98 30 kg",30.0,4.7,tabela
+fornecedor3,"Gergelim Preto Nacional 24,50 24,50 25,97 25 kg",25.0,24.5,tabela
+fornecedor3,"Gergelim Preto Z-Black PREMIUM I 25,85 27,50 29,15 5 kg",5.0,27.5,tabela
+fornecedor3,"Gergelim Tahine em Pasta - Preço por kg 23,30 23,30 24,70 3 kg",3.0,23.3,tabela
+fornecedor3,"Gergelim S/ Casca Nacional 13,20 13,20 13,99 25 kg",25.0,13.2,tabela
+fornecedor3,"Gergelim S/ Casca PREMIUM IMPORTADO I 18,33 19,50 20,67 5 kg",5.0,19.5,tabela
+fornecedor3,"Gergelim Torrado C/ Casca 6,70 6,70 7,10 10 kg",10.0,6.7,tabela
+fornecedor3,"Ginseng em Pó 16,50 16,50 16,50 10 kg",10.0,16.5,tabela
+fornecedor3,"Girassol S/ Casca Cru I 11,19 11,90 12,61 22,68kg",22.68,12.61,tabela
+fornecedor3,"Girassol S/ Casca Torrado & Salgado (Select S) I 13,63 14,50 15,37 10 kg",10.0,14.5,tabela
+fornecedor3,"Girassol S/ Casca Torrado S/ Sal (Select SS) I - - - 10 kg Tabela válida até 31/10/2025 Venda minima: R$ 800,00 OBS: Favor enviarem os pedidos com o preço por quilo OBS; Para entregas paletizadas, favor considerar o valor de R$ 40,00 por palete OBS: Para pagamento a vista, conceder 2% de desconto Tabela N° 44 www.jtcd.com.br Preços sujeitos a alterações sem prévio aviso 24/10/2025 Valor minimo para entrega: R$ 1600,00 Não entregamos em transportadoras Outros Em SP - Em SP Produtos Estados Simples Embalagem p/kg p/kg Nacional",10.0,40.0,tabela
+fornecedor3,"Glutamato Monossódico (Ajinomoto) 80% I 8,93 9,50 9,50 25 kg",25.0,9.5,tabela
+fornecedor3,"Glutamato Monossódico (Ajinomoto) 60% I 7,24 7,70 7,70 25 kg",25.0,7.7,tabela
+fornecedor3,"Glutamina 67,00 67,00 67,00 10 kg",10.0,67.0,tabela
+fornecedor3,"Goji Berry I 24,44 26,00 27,56 10 kg",10.0,26.0,tabela
+fornecedor3,"Goma Xantana 200 Mesh I 28,20 30,00 30,00 25 kg",25.0,30.0,tabela
+fornecedor3,"Goma Xantana 200 Mesh I 31,02 33,00 33,00 10 kg",10.0,33.0,tabela
+fornecedor3,"Granola Tradicional C/ Açúcar 16,50 16,50 17,49 9,6 kg",9.6,17.49,tabela
+fornecedor3,"Granola Tradicional Sem Açúcar 17,00 17,00 18,02 9,6 kg",9.6,18.02,tabela
+fornecedor3,"Grão de Bico 7mm I 4,79 5,10 5,41 25 kg",25.0,5.1,tabela
+fornecedor3,"Grão de Bico 8mm I 5,83 6,20 6,57 25 kg",25.0,6.2,tabela
+fornecedor3,"Grão de Bico 9mm I 7,05 7,50 7,95 25 kg",25.0,7.5,tabela
+fornecedor3,"Grão de Bico 12mm I 13,16 14,00 14,84 25 kg",25.0,14.0,tabela
+fornecedor3,"Guaraná em Pó 27,50 27,50 29,15 10 kg",10.0,27.5,tabela
+fornecedor3,"Hibisco Flor Inteiro S/ ICMS I 13,80 13,80 13,80 25 kg 860.4 Hibisco Flor Inteiro C/ 4% ICMS I 14,40 14,40 - 25 kg 860.12 Hibisco Flor Inteiro C/ 12% ICMS I - 15,50 - 25 kg",25.0,860.12,tabela
+fornecedor3,"Hortelã em flocos S/ ICMS PREMIUM I 6,90 6,90 6,90 25 kg 463.4 Hortelã em flocos C/ 4% ICMS PREMIUM I 7,20 7,20 - 25 kg 463.12 Hortelã em flocos C/ 12% ICMS PREMIUM I - 7,70 - 25 kg",25.0,463.12,tabela
+fornecedor3,"Jaca Desidratada Chips I 63,92 68,00 72,08 7 kg",7.0,68.0,tabela
+fornecedor3,"Laranja Cristalizada 36,50 36,50 38,69 5 kg",5.0,36.5,tabela
+fornecedor3,"Laranja em Fatias Desidratada 47,30 47,30 50,14 8 kg",8.0,47.3,tabela
+fornecedor3,"Laranja em Tiras Cristalizada 54,30 54,30 57,56 5 kg",5.0,54.3,tabela
+fornecedor3,"Leite de Coco em Pó I 29,14 31,00 32,86 15 kg",15.0,31.0,tabela
+fornecedor3,"Leite de Coco em Pó Vegano I 36,66 39,00 41,34 15 kg",15.0,39.0,tabela
+fornecedor3,"Lemon Ervas 16,30 16,30 17,28 10 kg",10.0,16.3,tabela
+fornecedor3,"Lemon Pepper 18,00 18,00 19,08 10 kg",10.0,18.0,tabela
+fornecedor3,"Lentilha Canadense Amarela I 14,85 15,80 16,75 45,36 kg",45.36,16.75,tabela
+fornecedor3,"Lentilha Canadense Tipo Francesa ( Verde ) I 12,88 13,70 14,52 45,36 kg",45.36,14.52,tabela
+fornecedor3,"Lentilha Canadense Preta (Beluga) I 15,60 16,60 17,60 45,36 kg",45.36,17.6,tabela
+fornecedor3,"Lentilha Canadense Verde I 8,65 9,20 9,75 45,36 kg",45.36,9.75,tabela
+fornecedor3,"Lentilha Canadense Vermelha I 7,99 8,50 9,01 45,36 kg",45.36,9.01,tabela
+fornecedor3,"Limão Siciliano Cristalizado em Casca 39,50 39,50 41,87 5 kg",5.0,39.5,tabela
+fornecedor3,"Limão Siciliano Cristalizado em Tiras 57,00 57,00 60,42 5 kg",5.0,57.0,tabela
+fornecedor3,"Limão Tahiti Desidratado em Fatias 44,00 44,00 46,64 8 kg",8.0,44.0,tabela
+fornecedor3,"Linhaça Dourada Nacional 10,80 10,80 11,45 25 kg",25.0,10.8,tabela
+fornecedor3,"Linhaça Marrom 100% Limpa 8,40 8,40 8,90 25 kg",25.0,8.4,tabela
+fornecedor3,"Louro em Folhas Egípicio SEMI SELECIONADO S/ ICMS I 19,20 19,20 19,20 25 kg 2047.4 Louro em Folhas Egípicio SEMI SELECIONADO C/ 4% ICMS I 20,00 20,00 - 25 kg 2047.12 Louro em Folhas Egípicio SEMI SELECIONADO C/ 12% ICMS I - 21,50 - 25 kg",25.0,2047.12,tabela
+fornecedor3,"Louro em Folhas Egípicio COMERCIAL S/ ICMS I 18,00 18,00 18,00 25 kg Tabela válida até 31/10/2025 Venda minima: R$ 800,00 OBS: Favor enviarem os pedidos com o preço por quilo OBS; Para entregas paletizadas, favor considerar o valor de R$ 40,00 por palete OBS: Para pagamento a vista, conceder 2% de desconto Tabela N° 44 www.jtcd.com.br Preços sujeitos a alterações sem prévio aviso 24/10/2025 Valor minimo para entrega: R$ 1600,00 Não entregamos em transportadoras Outros Em SP - Em SP Produtos Estados Simples Embalagem p/kg p/kg Nacional 2176.4 Louro em Folhas Egípicio COMERCIAL C/ 4% ICMS I 18,70 18,70 - 25 kg 2176.12 Louro em Folhas Egípicio COMERCIAL C/ 12% ICMS I - 20,20 - 25 kg",25.0,2176.12,tabela
+fornecedor3,"Louro em Folhas SELECIONADO PREMIUM S/ ICMS I 32,00 32,00 32,00 10 kg 1957.4 Louro em Folhas SELECIONADO PREMIUM C/ 4% ICMS I 33,30 33,30 - 10 kg 1957.12 Louro em Folhas SELECIONADO PREMIUM 12%/ CMS I - 35,80 - 10 kg",10.0,1957.12,tabela
+fornecedor3,"Louro em Folhas TURCO PREMIUM S/ ICMS I 40,20 40,20 40,20 9,5 kg 282,4 Louro em Folhas TURCO PREMIUM C/ 4% ICMS I 41,80 41,80 - 9,5 kg 282.12 Louro em Folhas TURCO PREMIUM 12%/ CMS I - 45,00 - 9,5 kg",9.5,45.0,tabela
+fornecedor3,"Louro em Pó S/ ICMS 12,40 12,40 12,40 10 kg 227.7 Louro em Pó C/ 7% ICMS 13,30 13,30 - 10 kg 227.12 Louro em Pó C/ 12% ICMS - 13,90 - 10 kg",10.0,227.12,tabela
+fornecedor3,"Maçã Chips C/ Canela 55,00 55,00 58,30 8 kg",8.0,55.0,tabela
+fornecedor3,"Maçã Integral Fatias 35,00 35,00 37,10 10 kg",10.0,35.0,tabela
+fornecedor3,"Maçã Seca Para Chá em Pedaços PREMIUM 38,00 38,00 40,28 12 kg",12.0,38.0,tabela
+fornecedor3,"Macadâmia Torrada & Salgada 112,00 112,00 118,72 10 kg",10.0,112.0,tabela
+fornecedor3,"Macadâmia Torrada Sem Sal 112,00 112,00 118,72 10 kg",10.0,112.0,tabela
+fornecedor3,"Maltitol Cristal I 14,10 15,00 15,00 25 kg",25.0,15.0,tabela
+fornecedor3,"Maltitol Cristal I 15,51 16,50 16,50 10 kg",10.0,16.5,tabela
+fornecedor3,"Maltodextrina 14,50 14,50 15,37 25 kg",25.0,14.5,tabela
+fornecedor3,"Manjericão Flocos A S/ ICMS I 5,20 5,20 5,20 25 kg 253.4 Manjericão Flocos A C/ 4% ICMS I 5,40 5,40 - 25 kg 253.12 Manjericão Flocos A C/ 12% ICMS I - 5,80 - 25 kg",25.0,253.12,tabela
+fornecedor3,"Manjerona Flocos "" A"" S/ ICMS I 7,10 7,10 7,10 25 kg 635.4 Manjerona Flocos ""A "" C/ 4% ICMS I 7,40 7,40 - 25 kg 635.12 Manjerona Flocos "" A"" C/ 12% ICMS I - 8,00 - 25 kg",25.0,635.12,tabela
+fornecedor3,"Marapuama Rasurada 9,10 9,10 9,10 10 kg 1727.STMarapuama Rasurada (C/ ST p/ AC/ AL/ AM/ AP/ DF/ ES/ MG/ MS/ RJ) 10,47 - 10 kg",10.0,9.1,tabela
+fornecedor3,"Milho Torrado & Salgado Mostarda e Mel (PEPITO) I 28,20 30,00 31,80 20 kg",20.0,30.0,tabela
+fornecedor3,"Milho Torrado & Salgado Mostarda e Mel (PEPITO) I 31,02 33,00 34,98 10 kg",10.0,33.0,tabela
+fornecedor3,"Milho Torrado & Salgado Mostarda e Mel (TOSTADEROS SACO AZUL) I 25,38 27,00 28,62 18 kg",18.0,27.0,tabela
+fornecedor3,"Mix Crispy Mostarda e Mel (PEPITO) I 42,30 45,00 47,70 10 kg",10.0,45.0,tabela
+fornecedor3,"Mix de Frutas CHIPS (banana, jaca, mamão, kiwi, maçã, figo, morango ) I 78,02 83,00 87,98 5 kg",5.0,83.0,tabela
+fornecedor3,"Mix de Frutas Desidratadas Sem Açúcar (abacaxi, manga, banana passa, figo, etc...) 54,50 54,50 57,77 10 kg",10.0,54.5,tabela
+fornecedor3,"Mix de Nuts 55,00 55,00 58,30 10 kg",10.0,55.0,tabela
+fornecedor3,"Mix de Vegetais em Chips PREMIUM I 52,64 56,00 59,36 5 kg",5.0,56.0,tabela
+fornecedor3,"Morango Desidratado Inteiro I 173,90 185,00 196,10 3 kg",3.0,185.0,tabela
+fornecedor3,"Mostarda Amarela em Pó S/ ICMS I 19,80 19,80 19,80 10 kg 912.4 Mostarda Amarela em Pó C/ 4% ICMS I 20,60 20,60 - 10 kg 912.12 Mostarda Amarela em Pó C/ 12% ICMS I - 22,20 - 10 kg",10.0,912.12,tabela
+fornecedor3,"Mostarda Amarela Canadense em Grãos S/ ICMS I 10,40 10,40 10,40 45,36 kg Tabela válida até 31/10/2025 Venda minima: R$ 800,00 OBS: Favor enviarem os pedidos com o preço por quilo OBS; Para entregas paletizadas, favor considerar o valor de R$ 40,00 por palete OBS: Para pagamento a vista, conceder 2% de desconto Tabela N° 44 www.jtcd.com.br Preços sujeitos a alterações sem prévio aviso 24/10/2025 Valor minimo para entrega: R$ 1600,00 Não entregamos em transportadoras Outros Em SP - Em SP Produtos Estados Simples Embalagem p/kg p/kg Nacional 641.4 Mostarda Amarela Canadense em Grãos C/ 4% ICMS I 10,80 10,80 - 45,36 kg 641.12 Mostarda Amarela Canadense em Grãos C/ 12% ICMS I - 11,60 - 45,36 kg",45.36,11.6,tabela
+fornecedor3,"Noz Moscada em Pó I 39,48 42,00 44,52 10 kg",10.0,42.0,tabela
+fornecedor3,"Noz Moscada Inteira (bola) I 70,03 74,50 78,97 25 kg",25.0,74.5,tabela
+fornecedor3,"Noz Moscada Inteira (bola) I 73,51 78,20 82,89 10 kg",10.0,78.2,tabela
+fornecedor3,"Noz Moscada Inteira (bola) I 77,27 82,20 87,13 2 kg",2.0,82.2,tabela
+fornecedor3,"Noz Moscada Quebrada I 43,05 45,80 48,55 50 kg",50.0,45.8,tabela
+fornecedor3,"Nozes Mariposa Extra Light 80/20 Argentina - SAFRA 2024 I 50,76 54,00 57,24 10 kg",10.0,54.0,tabela
+fornecedor3,"Nozes Mariposa Extra Light 80/20 Argentina - SAFRA 2025 I 59,22 63,00 66,78 10 kg",10.0,63.0,tabela
+fornecedor3,"Nozes Mariposa Extra Light 70/30 CHILENA - SAFRA 2024 I 44,18 47,00 49,82 10 kg",10.0,47.0,tabela
+fornecedor3,"Nozes Mariposa Light 80/20 I 47,94 51,00 54,06 10 kg",10.0,51.0,tabela
+fornecedor3,"Nozes Pecan Inteiras 107,00 107,00 113,42 10 kg",10.0,107.0,tabela
+fornecedor3,"Nozes Pecan Pedaços 94,50 94,50 100,17 10 kg",10.0,94.5,tabela
+fornecedor3,"Nozes Quartilhos Extra Light - CHILENA (SAFRA 2025) I 40,42 43,00 45,58 10 kg",10.0,43.0,tabela
+fornecedor3,"Nozes Quartilhos Extra Light - CHINESA I 33,84 36,00 38,16 10 kg",10.0,36.0,tabela
+fornecedor3,"Nozes Quartz Extra Light - CHILENA - SAFRA 2024 I 40,42 43,00 45,58 10 kg",10.0,43.0,tabela
+fornecedor3,"Nozes Quartz Extra Light - CHILENA - SAFRA 2025 I 44,65 47,50 50,35 10 kg",10.0,47.5,tabela
+fornecedor3,"Ora-Pro-Nobis S/ICMS 37,00 37,00 37,00 10 kg 2079.7 Ora-Pro-Nobis C/7% ICMS 39,60 39,60 - 10 kg 2079.12 Ora-Pro-Nobis C/12% ICMS 41,40 41,40 - 10 kg",10.0,41.4,tabela
+fornecedor3,"Orégano Peruano S/ ICMS I 19,50 19,50 19,50 12,5 kg 383.4 Orégano Peruano C/ 4% ICMS I 20,30 20,30 - 12,5 kg 383.12 Orégano Peruano C/ 12% ICMS I - 21,80 - 12,5 kg",12.5,21.8,tabela
+fornecedor3,"Orégano Peruano PREMIUM S/ ICMS I 25,00 25,00 25,00 5 kg 1987.4 Orégano Peruano PREMIUM C/ 4% ICMS I 26,00 26,00 - 5 kg 1987.12 Orégano Peruano PREMIUM C/ 12 % ICMS I - 28,00 - 5 kg",5.0,1987.12,tabela
+fornecedor3,"Osso de Siba Grande 9/11 cm I 99,64 106,00 112,36 12 kg",12.0,106.0,tabela
+fornecedor3,"Osso de Siba Grande 9/11 cm I 101,52 108,00 114,48 2 kg",2.0,108.0,tabela
+fornecedor3,"Osso de Siba Médio 6/8 cm I 100,58 107,00 113,42 12 kg",12.0,107.0,tabela
+fornecedor3,"Osso de Siba Médio 6/8 cm I 102,46 109,00 115,54 2 kg",2.0,109.0,tabela
+fornecedor3,"Páprica ASTA 040 I 9,02 9,60 10,18 25 kg",25.0,9.6,tabela
+fornecedor3,"Páprica ASTA 140 I 17,86 19,00 20,14 25 kg",25.0,19.0,tabela
+fornecedor3,"Páprica ASTA 140 (Egípcia) I 17,86 19,00 20,14 20 kg",20.0,19.0,tabela
+fornecedor3,"Páprica Defumada 11,80 11,80 12,51 10 kg",10.0,11.8,tabela
+fornecedor3,"Páprica Doce 9,50 9,50 10,07 10 kg",10.0,9.5,tabela
+fornecedor3,"Páprica Picante 10,00 10,00 10,60 10 kg",10.0,10.0,tabela
+fornecedor3,"Pasta de Gergelim Tahine - Preço por kg 23,30 23,30 24,70 3 kg Tabela válida até 31/10/2025 Venda minima: R$ 800,00 OBS: Favor enviarem os pedidos com o preço por quilo OBS; Para entregas paletizadas, favor considerar o valor de R$ 40,00 por palete OBS: Para pagamento a vista, conceder 2% de desconto Tabela N° 44 www.jtcd.com.br Preços sujeitos a alterações sem prévio aviso 24/10/2025 Valor minimo para entrega: R$ 1600,00 Não entregamos em transportadoras Outros Em SP - Em SP Produtos Estados Simples Embalagem p/kg p/kg Nacional",3.0,40.0,tabela
+fornecedor3,"Pepino Conserva (4 baldes x 2 kg) 13,20 13,20 13,99 8kg",2.0,13.2,tabela
+fornecedor3,"Pimenta Biquinho em Conserva (4 baldes x 2kg) 22,50 22,50 23,85 8 kg",2.0,22.5,tabela
+fornecedor3,"Pimenta Branca em Grãos Premium 87,50 87,50 92,75 25 kg",25.0,87.5,tabela
+fornecedor3,"Pimenta Branca em Grãos 79,50 79,50 84,27 25 kg",25.0,79.5,tabela
+fornecedor3,"Pimenta Branca em Pó 49,50 49,50 52,47 10 kg",10.0,49.5,tabela
+fornecedor3,"Pimenta Calabresa em Flocos I 10,34 11,00 11,66 25 kg",25.0,11.0,tabela
+fornecedor3,"Pimenta Preta em Grãos 48,00 48,00 50,88 25kg",25.0,48.0,tabela
+fornecedor3,"Pimenta Preta em Pó 9,50 9,50 10,07 10 kg",10.0,9.5,tabela
+fornecedor3,"Pimenta Preta Feculada 7,30 7,30 7,74 10 kg",10.0,7.3,tabela
+fornecedor3,"Pimenta Rosa em Grãos 45,00 45,00 47,70 3 kg",3.0,45.0,tabela
+fornecedor3,"Pimentão em Flocos Verde I 36,19 38,50 40,81 20 kg",20.0,38.5,tabela
+fornecedor3,"Pipoca Panda Pop 3,80 3,80 3,80 23 kg",23.0,3.8,tabela
+fornecedor3,"Pistache C/ Casca Torrado & Salgado I 75,20 80,00 84,80 10 kg",10.0,80.0,tabela
+fornecedor3,"Pistache Cru S/ Casca 80/20 I 138,65 147,50 156,35 10 kg",10.0,147.5,tabela
+fornecedor3,"Pistache Cru S/ Casca Inteiro 100% I 150,40 160,00 169,60 10 kg",10.0,160.0,tabela
+fornecedor3,"Polvilho Azedo - Brasil 5,90 5,90 6,25 25 kg",25.0,5.9,tabela
+fornecedor3,"Polvilho Doce / Fécula de Mandioca - Brasil 4,90 4,90 5,19 25 kg",25.0,4.9,tabela
+fornecedor3,"Proteína de Soja Caramelo 7,60 7,60 8,06 20 kg",20.0,7.6,tabela
+fornecedor3,"Proteína de Soja Natural 7,60 7,60 8,06 20 kg",20.0,7.6,tabela
+fornecedor3,"Psylium - Husky (60%) S/ ICMS I 17,50 17,50 17,50 10 kg 2133.4 Psylium - Husky (60%) C/ 4% ICMS I 18,20 18,20 - 10 kg 2133.12 Psylium - Husky (60%) C/ 12% ICMS I - 19,60 - 10 kg",10.0,2133.12,tabela
+fornecedor3,"Psylium em pó S/ICMS I 13,00 13,00 13,00 10 kg 1282.4 Psylium em pó C/ 4% ICMS I 13,50 13,50 - 10 kg 1282.12 Psylium em pó C/ 12% ICMS I - 14,60 - 10 kg",10.0,1282.12,tabela
+fornecedor3,"Quinua em Flocos Branca Peruana I 23,78 25,30 26,82 25 kg",25.0,25.3,tabela
+fornecedor3,"Quinua em Grãos Branca Nacional 18,50 18,50 19,61 25 kg",25.0,18.5,tabela
+fornecedor3,"Quinua em Grãos Branca Peruana I 21,71 23,10 24,49 25 kg",25.0,23.1,tabela
+fornecedor3,"Quinua em Grãos Preta Peruana I 18,89 20,10 21,31 25 kg",25.0,20.1,tabela
+fornecedor3,"Quinua em Grãos Tricolor (Mix) Peruana I 20,68 22,00 23,32 25 kg",25.0,22.0,tabela
+fornecedor3,"Quinua em Grãos Vermelha Peruana I 20,02 21,30 22,58 25 kg",25.0,21.3,tabela
+fornecedor3,"Sagu (Olinda) 7,40 7,40 7,84 25 kg",25.0,7.4,tabela
+fornecedor3,"Sal Rosa do Himalaia Fino I 3,01 3,20 3,20 10kg",10.0,3.2,tabela
+fornecedor3,"Salsa Desidratada em Flocos Nacional S/ ICMS - - - 10 kg Tabela válida até 31/10/2025 Venda minima: R$ 800,00 OBS: Favor enviarem os pedidos com o preço por quilo OBS; Para entregas paletizadas, favor considerar o valor de R$ 40,00 por palete OBS: Para pagamento a vista, conceder 2% de desconto Tabela N° 44 www.jtcd.com.br Preços sujeitos a alterações sem prévio aviso 24/10/2025 Valor minimo para entrega: R$ 1600,00 Não entregamos em transportadoras Outros Em SP - Em SP Produtos Estados Simples Embalagem p/kg p/kg Nacional",10.0,40.0,tabela
+fornecedor3,"Salsa Desidratada em Flocos Nacional PREMIUM S/ ICMS 19,80 19,80 19,80 10 kg 2002.7 Salsa Desidratada em Flocos Nacional PREMIUM C/ 7% ICMS 21,20 21,20 - 10 kg 2002.12 Salsa Desidratada em Flocos Nacional PREMIUM C/ 12% ICMS - 23,00 - 10 kg",10.0,2002.12,tabela
+fornecedor3,"Sálvia Folhas S/ ICMS I 10,00 10,00 10,00 20 kg 1325.4 Sálvia Folhas C/ 4% ICMS I 10,40 10,40 - 20 kg 1325.12 Sálvia Folhas C/ 12% ICMS I - 11,20 - 20 kg",20.0,1325.12,tabela
+fornecedor3,"Sálvia Folhas S/ ICMS I 11,50 11,50 11,50 5 kg 2078.4 Sálvia Folhas C/ 4% ICMS I 12,00 12,00 - 5 kg 2078.12 Sálvia Folhas C/ 12% ICMS I - 12,90 - 5 kg",5.0,2078.12,tabela
+fornecedor3,"Semente de Abóbora C/ Casca Crua I 21,34 22,70 24,06 25 kg",25.0,22.7,tabela
+fornecedor3,"Semente de Abóbora S/ Casca Crua - AA I 31,49 33,50 35,51 25 kg",25.0,33.5,tabela
+fornecedor3,"Semente de Abóbora S/ Casca Torrada & Salgada (Select S) I 24,91 26,50 28,09 10 kg",10.0,26.5,tabela
+fornecedor3,"Semente de Abóbora S/ Casca Torrada S/ Sal (Select SS) I 24,91 26,50 28,09 10 kg",10.0,26.5,tabela
+fornecedor3,"Sene em Folha S/ICMS I 6,00 6,00 6,00 25 kg 270.4 Sene em Folha C/ 4% ICMS I 6,20 6,20 - 25 kg 270.12 Sene em Folha C/ 12% ICMS I - 6,70 - 25 kg",25.0,270.12,tabela
+fornecedor3,"Shimeji S/ ICMS I 52,00 52,00 52,00 16 kg 1845.4 Shimeji C/ 4% ICMS I 54,10 54,10 - 16 kg 1845.12 Shimeji C/ 12% ICMS I - 58,20 - 16 kg",16.0,1845.12,tabela
+fornecedor3,"Soja Grão Graúda 5,04 4,50 4,50 25 kg",25.0,4.5,tabela
+fornecedor3,"Sorbitol I 13,91 14,80 14,80 25 kg",25.0,14.8,tabela
+fornecedor3,"Spirulina I 31,02 33,00 33,00 10 kg",10.0,33.0,tabela
+fornecedor3,"Tahine de Gergelim em Pasta - Preço por kg 23,30 23,30 24,70 3 kg",3.0,23.3,tabela
+fornecedor3,"Tâmara C/Caroço Fresca Jumbo S/ ICMS I 36,00 36,00 36,00 5 kg 843.4 Tâmara C/Caroço Fresca Jumbo C/ 4% ICMS I 37,40 37,40 - 5 kg 843.12 Tâmara C/Caroço Fresca Jumbo C/ 12% ICMS I - 40,30 - 5 kg",5.0,843.12,tabela
+fornecedor3,"Tâmara C/Caroço Fresca Média S/ ICMS I 30,00 30,00 30,00 5 kg 2150.4 Tâmara C/Caroço Fresca Média C/ 4% ICMS I 31,20 31,20 - 5 kg 2150.12 Tâmara C/Caroço Fresca Média C/ 12% ICMS I - 33,60 - 5 kg",5.0,2150.12,tabela
+fornecedor3,"Tâmara S/ Caroço - El Monaguillo I 20,49 21,80 23,11 5 kg",5.0,21.8,tabela
+fornecedor3,"Tapioca Granulada - Prata 7,20 7,20 7,63 25 kg",25.0,7.2,tabela
+fornecedor3,"Tempero Baiano 9,50 9,50 10,07 10 kg",10.0,9.5,tabela
+fornecedor3,"Tempero Cebola, Alho e Salsa I 24,91 26,50 28,09 10 kg",10.0,26.5,tabela
+fornecedor3,"Tempero da Ana 18,00 18,00 19,08 10 kg",10.0,18.0,tabela
+fornecedor3,"Tempero do Chefe 14,50 14,50 15,37 10 kg",10.0,14.5,tabela
+fornecedor3,"Tempero do Edu 22,50 22,50 23,85 10 kg",10.0,22.5,tabela
+fornecedor3,"Tempero para Feijão em Pó 16,40 16,40 17,38 10 kg",10.0,16.4,tabela
+fornecedor3,"Tempero para Frango e Arroz 9,90 9,90 10,49 10 kg Tabela válida até 31/10/2025 Venda minima: R$ 800,00 OBS: Favor enviarem os pedidos com o preço por quilo OBS; Para entregas paletizadas, favor considerar o valor de R$ 40,00 por palete OBS: Para pagamento a vista, conceder 2% de desconto Tabela N° 44 www.jtcd.com.br Preços sujeitos a alterações sem prévio aviso 24/10/2025 Valor minimo para entrega: R$ 1600,00 Não entregamos em transportadoras Outros Em SP - Em SP Produtos Estados Simples Embalagem p/kg p/kg Nacional",10.0,40.0,tabela
+fornecedor3,"Tempero Mineiro 18,50 18,50 19,61 10 kg",10.0,18.5,tabela
+fornecedor3,"Tempero ""Pega Esposa"" 23,20 23,20 24,59 10 kg",10.0,23.2,tabela
+fornecedor3,"Tempero ""Pega Marido"" 24,60 24,60 26,08 10 kg",10.0,24.6,tabela
+fornecedor3,"Tempero Sírio 16,90 16,90 17,91 10 kg",10.0,16.9,tabela
+fornecedor3,"Tomate em Flocos Chinês I 25,29 26,90 28,51 20 kg",20.0,26.9,tabela
+fornecedor3,"Tomilho Extra S/ ICMS I 7,90 7,90 7,90 25 kg 506.4 Tomilho Extra C/ 4% ICMS I 8,20 8,20 - 25 kg 506.12 Tomilho Extra C/ 12% ICMS I - 8,80 - 25 kg",25.0,506.12,tabela
+fornecedor3,"Tomilho S/ ICMS I 9,10 9,10 9,10 5 kg 2077.4 Tomilho C/ 4% ICMS I 9,50 9,50 - 5 kg 2077.12 Tomilho C/ 12% ICMS I - 10,20 - 5 kg",5.0,2077.12,tabela
+fornecedor3,"Trigo p/ Kibe - Marrocos 5,20 5,20 5,51 25 kg",25.0,5.2,tabela
+fornecedor3,"Uva Passa Branca Iraniana I 21,62 23,00 24,38 10 kg",10.0,23.0,tabela
+fornecedor3,"Uva Passa Preta Argentina I 16,92 18,00 19,08 10 kg",10.0,18.0,tabela
+fornecedor3,"Uva Passa Preta Argentina Gleba I 18,61 19,80 20,99 10 kg",10.0,19.8,tabela
+fornecedor3,"Uva Passa Preta Iraniana Morena I 13,16 14,00 14,84 10 kg",10.0,14.0,tabela
+fornecedor3,"Vinagrete Flocos 35,00 35,00 37,10 5 kg",5.0,35.0,tabela
+fornecedor3,"Whey Protein Concentrado 79,00 79,00 83,74 10 kg",10.0,79.0,tabela
+fornecedor3,"Xerém de Amendoim (granulado e torrado) 12,40 12,40 13,14 10 kg",10.0,12.4,tabela
+fornecedor3,"Xerém de Avelã I 70,03 74,50 78,97 10 kg",10.0,74.5,tabela
+fornecedor3,"Xerém de Castanha de Caju G2T 23,50 23,50 24,91 11,34 kg",11.34,24.91,tabela
+fornecedor3,"Xerém de Castanha de Caju X1T 25,00 25,00 26,50 11,34 kg",11.34,26.5,tabela
+fornecedor3,"Xerém de Castanha de Caju X2T 23,50 23,50 24,91 11,34 kg",11.34,24.91,tabela
+fornecedor3,"Xylitol (Cristal) I 22,94 24,40 24,40 25 kg",25.0,24.4,tabela
+fornecedor3,"Xylitol (Cristal) I 24,91 26,50 26,50 10 kg",10.0,26.5,tabela
+fornecedor3,"Zathar 11,20 11,20 11,87 10 kg",10.0,11.2,tabela
+fornecedor3,"Zimbro Premium S/ ICMS I 119,40 119,40 126,56 27,7 kg 1841.4 Zimbro Premium C/4% ICMS I 124,10 124,10 - 27,7 kg 1841.12 Zimbro Premium C/12% ICMS I - 133,70 - 27,7 kg",27.7,133.7,tabela
+fornecedor3,"Zimbro Premium S/ ICMS I 125,00 125,00 132,50 10 kg 1595.4 Zimbro Premium C/4% ICMS I 130,00 130,00 - 10 kg 1595.12 Zimbro Premium C/12% ICMS I - 140,00 - 10 kg Tabela válida até 31/10/2025 Venda minima: R$ 800,00 OBS: Favor enviarem os pedidos com o preço por quilo OBS; Para entregas paletizadas, favor considerar o valor de R$ 40,00 por palete OBS: Para pagamento a vista, conceder 2% de desconto",10.0,800.0,tabela
+fornecedor4,10042 ABACAXI CRISTALIZADO,5.0,5.0,avista
+fornecedor4,50730,10.0,10.0,avista
+fornecedor4,52837,5.0,5.0,avista
+fornecedor4,10415 ABACAXI SECO RODELAS ( DESID. SEM AÇÚCAR ),5.0,5.0,avista
+fornecedor4,53171 ABÓBORA CHIPS IMP.,5.0,5.0,avista
+fornecedor4,50119 AÇAÍ EM PÓ,5.0,5.0,avista
+fornecedor4,"10145 AÇÚCAR DE COCO IMP. ( ST AL, MG )",10.0,10.0,avista
+fornecedor4,10310 AÇÚCAR DEMERARA ( ST P/ES/MG/MT/MS ),10.0,10.0,avista
+fornecedor4,10358 AÇÚCAR MASCAVO (DOCICAN) (ST P/ES/MG/MT/MS) 10,10.0,10.0,avista
+fornecedor4,10298 AÇÚCAR MASCAVO (GRANELLI) (ST P/ES/MG/MT/MS) 10,10.0,10.0,avista
+fornecedor4,52110,25.0,25.0,avista
+fornecedor4,52468,5.0,5.0,avista
+fornecedor4,30065 ALBUMINA (CLARA DE OVO PAST ) DES,5.0,5.0,avista
+fornecedor4,30009 ALECRIM EM FOLHAS (FLOCOS) DESIDRATADO IMP. 25,25.0,25.0,avista
+fornecedor4,30009 ALECRIM EM FOLHAS (FLOCOS) DESIDRATADO IMP. 25,25.0,25.0,avista
+fornecedor4,30009 ALECRIM EM FOLHAS (FLOCOS) DESIDRATADO IMP. 25,25.0,25.0,avista
+fornecedor4,"50147 ALFAZEMA AZUL (TIPO 01) (ST/ AL, MG, RJ)",20.0,20.0,avista
+fornecedor4,"50147 ALFAZEMA AZUL (TIPO 01) (ST/ AL, MG, RJ)",20.0,20.0,avista
+fornecedor4,"50147 ALFAZEMA AZUL (TIPO 01) (ST/ AL, MG, RJ)",20.0,20.0,avista
+fornecedor4,"30073 ALFAZEMA AZUL (TIPO 01) (ST/ AL, MG, RJ)",5.0,5.0,avista
+fornecedor4,"30073 ALFAZEMA AZUL (TIPO 01) (ST/ AL, MG, RJ)",5.0,5.0,avista
+fornecedor4,"30073 ALFAZEMA AZUL (TIPO 01) (ST/ AL, MG, RJ)",5.0,5.0,avista
+fornecedor4,52093 ALHO AREIA 16/26,25.0,25.0,avista
+fornecedor4,30066 ALHO EM FLOCOS SEM RAÍZ IMP.,20.0,20.0,avista
+fornecedor4,30173 ALHO EM PÓ ( INDIANO ) IMP.,25.0,25.0,avista
+fornecedor4,30145 ALHO EM PÓ CHINÊS IMP.,25.0,25.0,avista
+fornecedor4,30169 ALHO FRITO IMP.,25.0,25.0,avista
+fornecedor4,30012 ALHO GRANULADO ( TIPO A ) CHINÊS,25.0,25.0,avista
+fornecedor4,51114 ALHO GRANULADO INDIANO (COMERCIAL),25.0,25.0,avista
+fornecedor4,50770 ALHO PORO EM FLOCOS,10.0,10.0,avista
+fornecedor4,40002 ALPISTE CANADENSE IMP.,45.36,45.36,avista
+fornecedor4,30108 AMACIANTE DE CARNE ( PÓ ),10.0,10.0,avista
+fornecedor4,20069 AMARANTO EM FLOCOS PERUANO IMP.,25.0,25.0,avista
+fornecedor4,10045,10.0,10.0,avista
+fornecedor4,10167,10.0,10.0,avista
+fornecedor4,10346,10.0,10.0,avista
+fornecedor4,10001 AMEIXA ( SEM CAROÇO ) 88-110 ARGENTINA IMP.,10.0,10.0,avista
+fornecedor4,30181,10.0,10.0,avista
+fornecedor4,40021 AMÊNDOA CONFEITADA BRANCA ( IMPORTADA ),5.0,5.0,avista
+fornecedor4,30238 AMÊNDOA CONFEITADA COLORIDA IMP.,5.0,5.0,avista
+fornecedor4,10389,5.0,5.0,avista
+fornecedor4,10036 AMÊNDOA LAMINADA ( CALCONUT ),10.0,10.0,avista
+fornecedor4,52838 AMÊNDOA LAMINADA ( CALCONUT ),5.0,5.0,avista
+fornecedor4,"30146 AMÊNDOA S/C CRUA GRAÚDA 25/27 AMERICANA 22,68",22.68,22.68,avista
+fornecedor4,52997 AMÊNDOA S/C CRUA GRAÚDA 25/27 AMERICANA,5.67,5.67,avista
+fornecedor4,10111 AMÊNDOA S/C CRUA MÉDIA 30/32 AMERICANA,22.68,22.68,avista
+fornecedor4,53036 AMÊNDOA S/C CRUA MÉDIA 30/32 AMERICANA,5.67,5.67,avista
+fornecedor4,10351,10.0,10.0,avista
+fornecedor4,52839,5.0,5.0,avista
+fornecedor4,20100 AMÊNDOA S/C SABOR DEFUMADA IMP.,5.0,5.0,avista
+fornecedor4,40019 AMÊNDOA S/C TORRADA E SALGADA IMP.,5.0,5.0,avista
+fornecedor4,40037 AMÊNDOA S/C TORRADA SEM SAL IMP.,5.0,5.0,avista
+fornecedor4,20014 AMENDOIM C/ CASCA CRÚ,25.0,25.0,avista
+fornecedor4,20092 AMENDOIM C/ CASCA TORRADO (ST AL),10.0,10.0,avista
+fornecedor4,10132,5.0,5.0,avista
+fornecedor4,10275,5.0,5.0,avista
+fornecedor4,10292,5.0,5.0,avista
+fornecedor4,50556,5.0,5.0,avista
+fornecedor4,30159,5.0,5.0,avista
+fornecedor4,30156,5.0,5.0,avista
+fornecedor4,10297,5.0,5.0,avista
+fornecedor4,10025 AMENDOIM DOCE (ST AL),10.0,10.0,avista
+fornecedor4,10375,5.0,5.0,avista
+fornecedor4,20095 AMENDOIM HPS (38-42),10.0,10.0,avista
+fornecedor4,10192 AMENDOIM JAPONÊS ( MARCA ZANCHETTA ) (ST AL) 5,5.0,5.0,avista
+fornecedor4,10024,10.0,10.0,avista
+fornecedor4,51628,10.0,10.0,avista
+fornecedor4,20064 AMENDOIM RUNNER,25.0,25.0,avista
+fornecedor4,10272,25.0,25.0,avista
+fornecedor4,10273,25.0,25.0,avista
+fornecedor4,52763,5.0,5.0,avista
+fornecedor4,10041 AMIDO DE MILHO,25.0,25.0,avista
+fornecedor4,30013 ANIS ESTRELADO IMP.,10.0,10.0,avista
+fornecedor4,30013 ANIS ESTRELADO IMP.,10.0,10.0,avista
+fornecedor4,30013 ANIS ESTRELADO IMP.,10.0,10.0,avista
+fornecedor4,53119 ANIS ESTRELADO IMP.,5.0,5.0,avista
+fornecedor4,53119 ANIS ESTRELADO IMP.,5.0,5.0,avista
+fornecedor4,53119 ANIS ESTRELADO IMP.,5.0,5.0,avista
+fornecedor4,10249,6.0,6.0,avista
+fornecedor4,50768 ARROZ NEGRO,10.0,10.0,avista
+fornecedor4,52703,10.0,10.0,avista
+fornecedor4,50706,25.0,25.0,avista
+fornecedor4,20041 AVEIA EM FLOCOS FINA MARCA AGRÍCOLA FERRARI 25,25.0,25.0,avista
+fornecedor4,52702 AVEIA EM FLOCOS FINA MARCA DUBAI,10.0,10.0,avista
+fornecedor4,10016 AVEIA EM FLOCOS FINA MARCA DUBAI,25.0,25.0,avista
+fornecedor4,52705,10.0,10.0,avista
+fornecedor4,10306,25.0,25.0,avista
+fornecedor4,20032,25.0,25.0,avista
+fornecedor4,52704 AVEIA EM FLOCOS GROSSA MARCA DUBAI,10.0,10.0,avista
+fornecedor4,10015 AVEIA EM FLOCOS GROSSA MARCA DUBAI,25.0,25.0,avista
+fornecedor4,50693,5.0,5.0,avista
+fornecedor4,30206,5.0,5.0,avista
+fornecedor4,52840,5.0,5.0,avista
+fornecedor4,53035,5.0,5.0,avista
+fornecedor4,53081,10.0,10.0,avista
+fornecedor4,53095,5.0,5.0,avista
+fornecedor4,10101,10.0,10.0,avista
+fornecedor4,52841,5.0,5.0,avista
+fornecedor4,40032,6.0,6.0,avista
+fornecedor4,52761,6.0,6.0,avista
+fornecedor4,40034,6.0,6.0,avista
+fornecedor4,40031,6.0,6.0,avista
+fornecedor4,40033,6.0,6.0,avista
+fornecedor4,10051 BANANA CRISTALIZADA,5.0,5.0,avista
+fornecedor4,10052 BANANA PASSA,10.0,10.0,avista
+fornecedor4,10398,5.0,5.0,avista
+fornecedor4,10301 BANANINHA EM BARRA ( ZERO AÇÚCAR ) (ST AL),5.0,5.0,avista
+fornecedor4,50741,5.0,5.0,avista
+fornecedor4,52757,6.0,6.0,avista
+fornecedor4,52755,6.0,6.0,avista
+fornecedor4,51486 BICARBONATO DE AMÔNIA CHINÊS,25.0,25.0,avista
+fornecedor4,51464 BICARBONATO DE SÓDIO CHINÊS IMP,25.0,25.0,avista
+fornecedor4,30015 BICARBONATO DE SÓDIO NACIONAL,25.0,25.0,avista
+fornecedor4,52867,5.0,5.0,avista
+fornecedor4,50793,5.0,5.0,avista
+fornecedor4,52987,5.0,5.0,avista
+fornecedor4,50792,5.0,5.0,avista
+fornecedor4,52487,5.0,5.0,avista
+fornecedor4,52487,5.0,5.0,avista
+fornecedor4,52486,5.0,5.0,avista
+fornecedor4,52486,5.0,5.0,avista
+fornecedor4,"52842 BLUEBERRY AMERICANO (ST AL,MG)",5.67,5.67,avista
+fornecedor4,"52501 BLUEBERRY CANADENSE (ST AL,MG)",11.34,11.34,avista
+fornecedor4,"53114 BLUEBERRY CANADENSE (ST AL,MG)",5.67,5.67,avista
+fornecedor4,"30203 BOLDO EM FOLHAS IMP. (ST/ AL, MG, RJ)",5.0,5.0,avista
+fornecedor4,"30203 BOLDO EM FOLHAS IMP. (ST/ AL, MG, RJ)",5.0,5.0,avista
+fornecedor4,"30203 BOLDO EM FOLHAS IMP. (ST/ AL, MG, RJ)",5.0,5.0,avista
+fornecedor4,"52548 AÇÚCAR (ST AL, AP, DF, MG, MT, RJ) (SP SEM ICMS) 4",4.0,4.0,avista
+fornecedor4,"52547 ZERO AÇÚCAR (ST AL, AP, DF, MG, MT, RJ) (SP SEM",4.0,4.0,avista
+fornecedor4,10053 CACAU EM PÓ ALCALINO NACIONAL ( BRAZILCOA ) 25,25.0,25.0,avista
+fornecedor4,10236 CACAU EM PÓ ALCALINO NACIONAL ( MB ),25.0,25.0,avista
+fornecedor4,10342 CACAU EM PÓ ALCALINO NACIONAL ( SOCAU ),25.0,25.0,avista
+fornecedor4,10343 CACAU EM PÓ ALCALINO PRETO ( MARCA MB ),25.0,25.0,avista
+fornecedor4,30152 CALDO DE BACON ( PÓ ),10.0,10.0,avista
+fornecedor4,30161 CALDO DE CAMARÃO ( PÓ ),10.0,10.0,avista
+fornecedor4,30109 CALDO DE CARNE ( PÓ ),10.0,10.0,avista
+fornecedor4,50495 CALDO DE COSTELA ( PÓ ),10.0,10.0,avista
+fornecedor4,30110 CALDO DE GALINHA ( PÓ ),10.0,10.0,avista
+fornecedor4,30162 CALDO DE LEGUMES ( PÓ ),10.0,10.0,avista
+fornecedor4,50494 CALDO DE PEIXE ( PÓ ),10.0,10.0,avista
+fornecedor4,30002 CAMOMILA FLOR NACIONAL,15.0,15.0,avista
+fornecedor4,30002 CAMOMILA FLOR NACIONAL,15.0,15.0,avista
+fornecedor4,"30160 CANELA 6,0 CM VERA ( A ) IMP.",10.0,6.0,avista
+fornecedor4,40047,5.0,5.0,avista
+fornecedor4,50431 CANELA EM PÓ 100% PURA TIPO 1 PREMIUM IMP.,10.0,10.0,avista
+fornecedor4,30020 CANELA EM PÓ 100% PURA VIETNÃ IMP.,10.0,10.0,avista
+fornecedor4,30018 CANELA EM PÓ FECULADA,10.0,10.0,avista
+fornecedor4,30172 CANELA JAWA INTEIRA ( EM SACO ) INDONÉSIA,25.0,25.0,avista
+fornecedor4,53120 CANELA JAWA INTEIRA ( EM SACO ) INDONÉSIA,5.0,5.0,avista
+fornecedor4,30136,25.0,25.0,avista
+fornecedor4,30184 CANELA JAWA QUEBRADA ( VIETNÃ ) 1% ÓLEO IMP 25,25.0,25.0,avista
+fornecedor4,52502,25.0,25.0,avista
+fornecedor4,20004 CANJICA AMARELA,30.0,30.0,avista
+fornecedor4,20003 CANJICA BRANCA,30.0,30.0,avista
+fornecedor4,30142,5.0,5.0,avista
+fornecedor4,30176 CARDAMOMO EM GRÃO NOVO IMP.,5.0,5.0,avista
+fornecedor4,30200 CARDAMOMO EM PÓ ( 100% PURO ) IMP.,5.0,5.0,avista
+fornecedor4,40046,5.0,5.0,avista
+fornecedor4,50499,5.0,5.0,avista
+fornecedor4,52834 CASTANHA DE BARU ( TORRADA E SALGADA ),5.0,5.0,avista
+fornecedor4,52833 CASTANHA DE BARU ( TORRADA SEM SAL ),5.0,5.0,avista
+fornecedor4,"53104 CASTANHA DE CAJU CARAMELIZADA COM COCO 11,34 Alterado",11.34,11.34,avista
+fornecedor4,53105,11.34,11.34,avista
+fornecedor4,10390,5.0,5.0,avista
+fornecedor4,51385 CASTANHA DE CAJU EM BANDA (CRUA),11.34,11.34,avista
+fornecedor4,52843 CASTANHA DE CAJU EM BANDA (CRUA),5.67,5.67,avista
+fornecedor4,51386 CASTANHA DE CAJU EM BANDA SEM SAL TORRADA,11.34,11.34,avista
+fornecedor4,"52844 CASTANHA DE CAJU EM BANDA SEM SAL TORRADA 5,67",5.67,5.67,avista
+fornecedor4,52871 CASTANHA DE CAJU SLW1 ( CRUA ),5.67,5.67,avista
+fornecedor4,10319 CASTANHA DE CAJU SLW1 ( CRUA ),11.34,11.34,avista
+fornecedor4,"10282 CASTANHA DE CAJU SLW1 (TORRADA SALGADA) 11,34",11.34,11.34,avista
+fornecedor4,"52872 CASTANHA DE CAJU SLW1 (TORRADA SALGADA) 5,67",5.67,5.67,avista
+fornecedor4,"10283 CASTANHA DE CAJU SLW1 (TORRADA SEM SAL) 11,34",11.34,11.34,avista
+fornecedor4,52873 CASTANHA DE CAJU SLW1 (TORRADA SEM SAL),5.67,5.67,avista
+fornecedor4,10217 CASTANHA DE CAJU W1 ( CRUA ) NACIONAL,11.34,11.34,avista
+fornecedor4,52874 CASTANHA DE CAJU W1 ( CRUA ) NACIONAL,5.67,5.67,avista
+fornecedor4,10141 CASTANHA DE CAJU W1 ( T/S ) NACIONAL,11.34,11.34,avista
+fornecedor4,52875 CASTANHA DE CAJU W1 ( T/S ) NACIONAL,5.67,5.67,avista
+fornecedor4,"10216 CASTANHA DE CAJU W1 TORRADA SEM SAL NAC 11,34",11.34,11.34,avista
+fornecedor4,"52876 CASTANHA DE CAJU W1 TORRADA SEM SAL NAC 5,67",5.67,5.67,avista
+fornecedor4,10126 CASTANHA DE CAJU W3 ( T/S ) NACIONAL,11.34,11.34,avista
+fornecedor4,"10304 CASTANHA DE CAJU W3 TORRADA SEM SAL NAC. 11,34",11.34,11.34,avista
+fornecedor4,52579 CASTANHA DE CAJU W3M ( T/S ) NACIONAL,11.34,11.34,avista
+fornecedor4,52578 CASTANHA DE CAJU W3M TORRADA SEM SAL NAC.,11.34,11.34,avista
+fornecedor4,10099 CASTANHA DE CAJU W4 ( T/S ) NACIONAL,11.34,11.34,avista
+fornecedor4,"10336 CASTANHA DE CAJU W4 TORRADA SEM SAL NAC. 11,34",11.34,11.34,avista
+fornecedor4,10414,5.0,5.0,avista
+fornecedor4,10002 CASTANHA DO PARÁ S/C LARGE,20.0,20.0,avista
+fornecedor4,53045 CASTANHA DO PARÁ S/C LARGE,5.0,5.0,avista
+fornecedor4,10333 CASTANHA DO PARÁ S/C MÉDIA,20.0,20.0,avista
+fornecedor4,52954 CASTANHA DO PARÁ S/C MEDIA,5.0,5.0,avista
+fornecedor4,10004 CASTANHA DO PARÁ S/C MIÚDA,20.0,20.0,avista
+fornecedor4,52955 CASTANHA DO PARÁ S/C MIÚDA,5.0,5.0,avista
+fornecedor4,50796 CASTANHA DO PARÁ S/C PEDAÇOS,20.0,20.0,avista
+fornecedor4,52956 CASTANHA DO PARÁ S/C PEDAÇOS,5.0,5.0,avista
+fornecedor4,10005 CASTANHA DO PARÁ S/C QUEBRADINHA,20.0,20.0,avista
+fornecedor4,53069 CASTANHA DO PARÁ S/C QUEBRADINHA,5.0,5.0,avista
+fornecedor4,10207 CATUABA EM PÓ,10.0,10.0,avista
+fornecedor4,20047,5.0,5.0,avista
+fornecedor4,52580 CEBOLA AREIA ( INDIANA ) IMP.,20.0,20.0,avista
+fornecedor4,50501 CEBOLA CRISPY FRITA,15.0,15.0,avista
+fornecedor4,30139 CEBOLA EM FLOCOS BRANCA ( INDIANA ) IMP.,14.0,14.0,avista
+fornecedor4,30186 CEBOLA EM FLOCOS ROXA ( INDIANA ) IMP.,14.0,14.0,avista
+fornecedor4,30138 CEBOLA EM PÓ ( INDIANA ) IMP.,20.0,20.0,avista
+fornecedor4,30140 CEBOLA GRANULADA MÉDIA ( INDIANA ) IMP.,20.0,20.0,avista
+fornecedor4,30197 CEBOLA GRANULADA MIÚDA ( INDIANA ) IMP.,20.0,20.0,avista
+fornecedor4,30082 CEBOLINHA DESIDRATADA NACIONAL,5.0,5.0,avista
+fornecedor4,30082 CEBOLINHA DESIDRATADA NACIONAL,5.0,5.0,avista
+fornecedor4,30242 CENOURA EM FLOCOS 5MM IMP.,20.0,20.0,avista
+fornecedor4,10293,12.0,12.0,avista
+fornecedor4,10294,13.2,13.2,avista
+fornecedor4,10010 Chegou,9.9,9.9,avista
+fornecedor4,10009 Chegou,10.8,10.8,avista
+fornecedor4,10224 CEREJA DESIDRATADA IMP.,10.0,10.0,avista
+fornecedor4,52879 CEREJA DESIDRATADA IMP.,5.0,5.0,avista
+fornecedor4,20005 CEVADA PEROLIZADA,25.0,25.0,avista
+fornecedor4,30188,5.0,5.0,avista
+fornecedor4,"10064 CHÁ MATE VERDE NACIONAL (ST MG, PR, RJ,SP)",5.0,5.0,avista
+fornecedor4,30167,10.0,10.0,avista
+fornecedor4,30234 CHIMICHURRI ( COM ) PIMENTA,5.0,5.0,avista
+fornecedor4,52344,5.0,5.0,avista
+fornecedor4,30233 CHIMICHURRI ( SEM ) PIMENTA,5.0,5.0,avista
+fornecedor4,52367,5.0,5.0,avista
+fornecedor4,50131 CHIMICHURRI DEFUMADO,5.0,5.0,avista
+fornecedor4,52368,5.0,5.0,avista
+fornecedor4,10349,6.0,6.0,avista
+fornecedor4,10056 CIDRA CRISTALIZADA,5.0,5.0,avista
+fornecedor4,20038,5.0,5.0,avista
+fornecedor4,10314,9.0,9.0,avista
+fornecedor4,53048,5.0,5.0,avista
+fornecedor4,10326,9.0,9.0,avista
+fornecedor4,53049,5.0,5.0,avista
+fornecedor4,20048,9.0,9.0,avista
+fornecedor4,10092,10.0,10.0,avista
+fornecedor4,53122,5.0,5.0,avista
+fornecedor4,10335,10.0,10.0,avista
+fornecedor4,53047,5.0,5.0,avista
+fornecedor4,10243,10.0,10.0,avista
+fornecedor4,53046,5.0,5.0,avista
+fornecedor4,"10352 COCO CHIPS SABOR CHOCOLATE IMP (ST AL,MG) 10 K",10.0,10.0,avista
+fornecedor4,"10286 COCO CHIPS SABOR CHOCOLATE IMP (ST AL,MG)",5.0,5.0,avista
+fornecedor4,52508,10.0,10.0,avista
+fornecedor4,10146,35.0,35.0,avista
+fornecedor4,53138,5.0,5.0,avista
+fornecedor4,10254 COCO EM FLOCOS ( SEM ) AÇÚCAR BRANCO NACIONAL,5.0,5.0,avista
+fornecedor4,52306 COCO RALADO EXTRA FINO 50 % IMP.,10.0,10.0,avista
+fornecedor4,53063 COCO RALADO EXTRA FINO 50 % IMP.,25.0,25.0,avista
+fornecedor4,10411 COCO RALADO FINO 55 % IMP.,10.0,10.0,avista
+fornecedor4,10324 COCO RALADO FINO 55 % IMP.,20.0,20.0,avista
+fornecedor4,10107 COCO RALADO FINO TIPO 01 65% IMP.,10.0,10.0,avista
+fornecedor4,10370 COCO RALADO MEDIO 55 % IMP.,20.0,20.0,avista
+fornecedor4,10060 COCO RALADO MÉDIO TIPO 01 65% IMP.,10.0,10.0,avista
+fornecedor4,30106 COENTRO EM PÓ 100% PURO IMP.,10.0,10.0,avista
+fornecedor4,30106 COENTRO EM PÓ 100% PURO IMP.,10.0,10.0,avista
+fornecedor4,30106 COENTRO EM PÓ 100% PURO IMP.,10.0,10.0,avista
+fornecedor4,30179 COENTRO EM GRÃO INTEIRO ARGENTINO IMP.,25.0,25.0,avista
+fornecedor4,30179 COENTRO EM GRÃO INTEIRO ARGENTINO IMP.,25.0,25.0,avista
+fornecedor4,30179 COENTRO EM GRÃO INTEIRO ARGENTINO IMP.,25.0,25.0,avista
+fornecedor4,30090 COENTRO EM GRÃO PARTIDO ARGENTINO IMP.,25.0,25.0,avista
+fornecedor4,30090 COENTRO EM GRÃO PARTIDO ARGENTINO IMP.,25.0,25.0,avista
+fornecedor4,30090 COENTRO EM GRÃO PARTIDO ARGENTINO IMP.,25.0,25.0,avista
+fornecedor4,10013 COLÁGENO HIDROLISADO ( MARCA - GELITA ),20.0,20.0,avista
+fornecedor4,51495 COLÁGENO HIDROLISADO ( MARCA-RBR ),5.0,5.0,avista
+fornecedor4,40007,5.0,5.0,avista
+fornecedor4,40008 COLÁGENO HIDROLISADO SABOR LIMÃO (MARCA RBR),5.0,5.0,avista
+fornecedor4,40009,5.0,5.0,avista
+fornecedor4,30023 COLORAU,25.0,25.0,avista
+fornecedor4,30026 COMINHO EM PÓ (100% PURO) IMP.,10.0,10.0,avista
+fornecedor4,30026 COMINHO EM PÓ (100% PURO) IMP.,10.0,10.0,avista
+fornecedor4,30026 COMINHO EM PÓ (100% PURO) IMP.,10.0,10.0,avista
+fornecedor4,30025 COMINHO EM PÓ FECULADO,10.0,10.0,avista
+fornecedor4,30185 COMINHO GRÃO 100% PURO IMP.,25.0,25.0,avista
+fornecedor4,30185 COMINHO GRÃO 100% PURO IMP.,25.0,25.0,avista
+fornecedor4,30185 COMINHO GRÃO 100% PURO IMP.,25.0,25.0,avista
+fornecedor4,52880 COMINHO GRÃO 100% PURO IMP.,5.0,5.0,avista
+fornecedor4,52880 COMINHO GRÃO 100% PURO IMP.,5.0,5.0,avista
+fornecedor4,52880 COMINHO GRÃO 100% PURO IMP.,5.0,5.0,avista
+fornecedor4,30096 COMINHO GRÃO 95% TIPO 02 IMP.,25.0,25.0,avista
+fornecedor4,30096 COMINHO GRÃO 95% TIPO 02 IMP.,25.0,25.0,avista
+fornecedor4,30096 COMINHO GRÃO 95% TIPO 02 IMP.,25.0,25.0,avista
+fornecedor4,30077 COMINHO GRÃO LIMPO 99%,25.0,25.0,avista
+fornecedor4,30077 COMINHO GRÃO LIMPO 99%,25.0,25.0,avista
+fornecedor4,30077 COMINHO GRÃO LIMPO 99%,25.0,25.0,avista
+fornecedor4,10403,8.0,8.0,avista
+fornecedor4,"52129 ALCA FOOD ) (ST AL, AP, DF, MG, MT, PR, RJ) (SP SEM",8.0,8.0,avista
+fornecedor4,10338,6.0,6.0,avista
+fornecedor4,10399,5.0,5.0,avista
+fornecedor4,51387 CRANBERRY FATIADO CANADENSE IMP. (ST MG) 11.34,11.34,11.34,avista
+fornecedor4,"53131 CRANBERRY FATIADO CANADENSE IMP. (ST MG) 5,67",5.67,5.67,avista
+fornecedor4,10124,11.34,11.34,avista
+fornecedor4,52886 Chegou,5.67,5.67,avista
+fornecedor4,"10131 CRANBERRY INTEIRO CANADENSE IMP. (ST MG) 11,34",11.34,11.34,avista
+fornecedor4,53133 CRANBERRY INTEIRO CANADENSE IMP. (ST MG),5.67,5.67,avista
+fornecedor4,10231,11.34,11.34,avista
+fornecedor4,52885,5.67,5.67,avista
+fornecedor4,30008 CRAVO CATADO EM GRAO,5.0,5.0,avista
+fornecedor4,10221 CRAVO EM PÓ,5.0,5.0,avista
+fornecedor4,30095 CRAVO GRÃO DE,25.0,25.0,avista
+fornecedor4,52852 CRAVO GRÃO DE,5.0,5.0,avista
+fornecedor4,40011 CREATINA MONOIDRATADA IMP.,25.0,25.0,avista
+fornecedor4,10188 CREATINA MONOIDRATADA IMP.,5.0,5.0,avista
+fornecedor4,50496 CREME DE CEBOLA PREMIUM,10.0,10.0,avista
+fornecedor4,52563 CUPUAÇU DESIDRATADO (5X1),5.0,5.0,avista
+fornecedor4,30029 CÚRCUMA (AÇAFRÃO DA TERRA) PÓ 100% PURA IMP. 10,10.0,10.0,avista
+fornecedor4,30029 CÚRCUMA (AÇAFRÃO DA TERRA) PÓ 100% PURA IMP. 10,10.0,10.0,avista
+fornecedor4,30029 CÚRCUMA (AÇAFRÃO DA TERRA) PÓ 100% PURA IMP. 10,10.0,10.0,avista
+fornecedor4,30124 CURCUMA RAIZ ( ACAFRAO DA TERRA ) IMP.,25.0,25.0,avista
+fornecedor4,30124 CURCUMA RAIZ ( ACAFRAO DA TERRA ) IMP.,25.0,25.0,avista
+fornecedor4,30124 CURCUMA RAIZ ( ACAFRAO DA TERRA ) IMP.,25.0,25.0,avista
+fornecedor4,30031 CURRY ( IMP. ),10.0,10.0,avista
+fornecedor4,10202 DAMASCO DOCE N°01 GRAÚDO TURCO IMP.,5.0,5.0,avista
+fornecedor4,10029 DAMASCO DOCE N°02 TURCO IMP.,12.5,12.5,avista
+fornecedor4,52890 DAMASCO DOCE N°02 TURCO IMP.,5.0,5.0,avista
+fornecedor4,10303 DAMASCO DOCE N°04 TURCO IMP.,12.5,12.5,avista
+fornecedor4,52891 DAMASCO DOCE N°04 TURCO IMP.,5.0,5.0,avista
+fornecedor4,10121 DETOX VERDE,5.0,5.0,avista
+fornecedor4,30083 ENDRO EM GRÃO IMP.,25.0,25.0,avista
+fornecedor4,30083 ENDRO EM GRÃO IMP.,25.0,25.0,avista
+fornecedor4,30083 ENDRO EM GRÃO IMP.,25.0,25.0,avista
+fornecedor4,10218 ERITRITOL CRYSTAL MESH 18/60 IMP.,25.0,25.0,avista
+fornecedor4,30058 ERVA DOCE IMP.,25.0,25.0,avista
+fornecedor4,30058 ERVA DOCE IMP.,25.0,25.0,avista
+fornecedor4,30058 ERVA DOCE IMP.,25.0,25.0,avista
+fornecedor4,30104 ERVAS FINAS ( IMP. ),5.0,5.0,avista
+fornecedor4,52572 ERVILHA PARTIDA ARGENTINA IMP.,25.0,25.0,avista
+fornecedor4,52572 ERVILHA PARTIDA ARGENTINA IMP.,25.0,25.0,avista
+fornecedor4,52572 ERVILHA PARTIDA ARGENTINA IMP.,25.0,25.0,avista
+fornecedor4,10377 ERVILHA TORRADA COM WASABI IMP. (ST MG),10.0,10.0,avista
+fornecedor4,30217 ESPINAFRE EM PÓ ( 100% PURO ),20.0,20.0,avista
+fornecedor4,10374,5.0,5.0,avista
+fornecedor4,52903 EXTRATO DE SOJA ( INABEL ),20.0,20.0,avista
+fornecedor4,10299 EXTRATO DE SOJA ( NUTRIALY ),20.0,20.0,avista
+fornecedor4,52901 EXTRATO DE SOJA PSA ( MARCA INABEL ),20.0,20.0,avista
+fornecedor4,52707,10.0,10.0,avista
+fornecedor4,50705,25.0,25.0,avista
+fornecedor4,52470 FARELO DE AVEIA MARCA AGRÍCOLA FERRARI,25.0,25.0,avista
+fornecedor4,52706 FARELO DE AVEIA MARCA DUBAI,10.0,10.0,avista
+fornecedor4,10011 FARELO DE AVEIA MARCA DUBAI,25.0,25.0,avista
+fornecedor4,10039 FARELO DE TRIGO FINO ( CRU ),20.0,20.0,avista
+fornecedor4,10012 FARELO DE TRIGO FINO ( TOSTADO ),20.0,20.0,avista
+fornecedor4,20021 FARINHA DA FELICIDADE,5.0,5.0,avista
+fornecedor4,50470 Chegou,10.0,10.0,avista
+fornecedor4,52892 Alterado,5.0,5.0,avista
+fornecedor4,10356,25.0,25.0,avista
+fornecedor4,52710 FARINHA DE ARROZ BRANCA DUBAI,10.0,10.0,avista
+fornecedor4,10279 FARINHA DE ARROZ BRANCA DUBAI,25.0,25.0,avista
+fornecedor4,52711 FARINHA DE ARROZ INTEGRAL DUBAI,10.0,10.0,avista
+fornecedor4,10280 FARINHA DE ARROZ INTEGRAL DUBAI,25.0,25.0,avista
+fornecedor4,52709,10.0,10.0,avista
+fornecedor4,50704,25.0,25.0,avista
+fornecedor4,20091,25.0,25.0,avista
+fornecedor4,52708 FARINHA DE AVEIA ( INTEGRAL ) MARCA DUBAI,10.0,10.0,avista
+fornecedor4,10040 FARINHA DE AVEIA ( INTEGRAL ) MARCA DUBAI,25.0,25.0,avista
+fornecedor4,52959 FARINHA DE AVELÃ CRUA,5.0,5.0,avista
+fornecedor4,10022 FARINHA DE BANANA VERDE ( 100% PURA ),10.0,10.0,avista
+fornecedor4,10174 FARINHA DE BATATA DOCE ( 100% PURA ),10.0,10.0,avista
+fornecedor4,40003 FARINHA DE BERINJELA ( 100% PURA ),5.0,5.0,avista
+fornecedor4,10281 FARINHA DE BETERRABA (100% PURA),5.0,5.0,avista
+fornecedor4,10316 FARINHA DE CASTANHA DE CAJU TORRADA,11.34,11.34,avista
+fornecedor4,10066 FARINHA DE CHIA ( PURA EXTRA ),10.0,10.0,avista
+fornecedor4,10153 FARINHA DE COCO ´´ BRANCA ``IMP.,10.0,10.0,avista
+fornecedor4,10148 FARINHA DE COCO ´´ BRANCA ``IMP.,25.0,25.0,avista
+fornecedor4,10067 FARINHA DE FEIJÃO BRANCO,10.0,10.0,avista
+fornecedor4,10140 FARINHA DE GRÃO DE BICO IMP.,10.0,10.0,avista
+fornecedor4,53172 FARINHA DE GRÃO DE BICO IMP.,25.0,25.0,avista
+fornecedor4,10035 FARINHA DE LINHAÇA DOURADA CRUA ( NACIONAL ) 10,10.0,10.0,avista
+fornecedor4,10021 FARINHA DE LINHAÇA MARROM CRUA ( NACIONAL ) 10,10.0,10.0,avista
+fornecedor4,52762 FARINHA DE MAÇÃ (FIBRA),10.0,10.0,avista
+fornecedor4,50769 FARINHA DE MAÇÃ (GRAZZIOTIN),10.0,10.0,avista
+fornecedor4,10117 FARINHA DE MACA PERUANA IMP.,10.0,10.0,avista
+fornecedor4,52821 FARINHA DE MACA PERUANA IMP. 100% PURA,10.0,10.0,avista
+fornecedor4,52094 FARINHA DE MACA PRETA PERUANA IMP.,10.0,10.0,avista
+fornecedor4,52463 FARINHA DE MACA VERMELHA PERUANA IMP.,10.0,10.0,avista
+fornecedor4,"50522 FARINHA DE MANDIOCA CRUA FINA ""CARIMÃ""",25.0,25.0,avista
+fornecedor4,"50521 FARINHA DE MANDIOCA CRUA GROSSA ""CARIMÃ""",20.0,20.0,avista
+fornecedor4,"50523 FARINHA DE MANDIOCA TORRADA FINA ""CARIMÃ""",25.0,25.0,avista
+fornecedor4,10033 FARINHA DE MARACUJÁ ( 100% PURA ),10.0,10.0,avista
+fornecedor4,10068 FARINHA DE MILHO AMARELA ( TAQUARIMIL ),20.0,20.0,avista
+fornecedor4,10069 FARINHA DE MILHO AMARELA ( YAYA ),20.0,20.0,avista
+fornecedor4,52612 FARINHA DE PISTACHE IMP.,5.0,5.0,avista
+fornecedor4,10118 FARINHA DE QUINOA IMP.,10.0,10.0,avista
+fornecedor4,10072 FARINHA DE ROSCA ( MARROCOS ),25.0,25.0,avista
+fornecedor4,52519 FARINHA DE SEMENTE DE ABOBORA CRUA,5.0,5.0,avista
+fornecedor4,52902 FARINHA DE SOJA INTEGRAL ( MARCA INABEL ),20.0,20.0,avista
+fornecedor4,20051 FARINHA DE TÂMARA ( AÇÚCAR ) IMP.,5.0,5.0,avista
+fornecedor4,50436 FARINHA DE UVA (GRAZZIOTIN),5.0,5.0,avista
+fornecedor4,10038 FARINHA ENERGÉTICA NATURAL SAUDÁVEL,5.0,5.0,avista
+fornecedor4,10149 FARINHA ESPECIAL ( SEM GLÚTEN ),5.0,5.0,avista
+fornecedor4,52182 FARINHA PANKO ( MARCA TERESSU ) ( 5PCX,1.0,5.0,avista
+fornecedor4,10116 FÉCULA DE BATATA,25.0,25.0,avista
+fornecedor4,20054 FEIJÃO BRANCO IMP.,25.0,25.0,avista
+fornecedor4,20054 FEIJÃO BRANCO IMP.,25.0,25.0,avista
+fornecedor4,20067 FEIJÃO FRADINHO,25.0,25.0,avista
+fornecedor4,20067 FEIJÃO FRADINHO,25.0,25.0,avista
+fornecedor4,51331 FEIJÃO PRETO NAC. BRILHADO,30.0,30.0,avista
+fornecedor4,51331 FEIJÃO PRETO NAC. BRILHADO,30.0,30.0,avista
+fornecedor4,50829 FENO GREGO EM GRÃO,25.0,25.0,avista
+fornecedor4,52557 FENO GREGO EM PÓ,25.0,25.0,avista
+fornecedor4,10074 FIGO CRISTALIZADO,5.0,5.0,avista
+fornecedor4,10173 FIGO TURCO LÉRIDA N°02 SAFRA 2024,5.0,5.0,avista
+fornecedor4,"52819 FLOR DE SAL ( NACIONAL ) ""NOVO""",5.0,5.0,avista
+fornecedor4,30174,5.0,5.0,avista
+fornecedor4,30125,5.0,5.0,avista
+fornecedor4,10078 FRUTAS CRISTALIZADAS ( HELOMAR ),10.0,10.0,avista
+fornecedor4,53068 FRUTAS CRISTALIZADAS ( PÉROLA ),10.0,10.0,avista
+fornecedor4,"20097 FUBÁ TIPO ""ITALIANO""",25.0,25.0,avista
+fornecedor4,20071 FUBÁ TRADICIONAL,25.0,25.0,avista
+fornecedor4,10047 FUMAÇA EM PÓ,5.0,5.0,avista
+fornecedor4,30062 FUNCHO EM GRÃO IMP.,25.0,25.0,avista
+fornecedor4,30062 FUNCHO EM GRÃO IMP.,25.0,25.0,avista
+fornecedor4,30062 FUNCHO EM GRÃO IMP.,25.0,25.0,avista
+fornecedor4,30075 FUNGHI SECO ( COGUMELO SECO ) IMP.,20.0,20.0,avista
+fornecedor4,52684 FUNGHI SECO ( COGUMELO SECO ) IMP.,5.0,5.0,avista
+fornecedor4,40044 GELATINA EM PÓ PURA SEM SABOR ( MARCA-RBR ) 5,5.0,5.0,avista
+fornecedor4,40001 GENGIBRE CRISTALIZADO EM CUBOS,5.0,5.0,avista
+fornecedor4,50445 GENGIBRE CRISTALIZADO EM LASCAS,5.0,5.0,avista
+fornecedor4,30126 GENGIBRE EM LASCAS IMP.,10.0,10.0,avista
+fornecedor4,30126 GENGIBRE EM LASCAS IMP.,10.0,10.0,avista
+fornecedor4,30126 GENGIBRE EM LASCAS IMP.,10.0,10.0,avista
+fornecedor4,30144 GENGIBRE EM LASCAS IMP.,20.0,20.0,avista
+fornecedor4,30144 GENGIBRE EM LASCAS IMP.,20.0,20.0,avista
+fornecedor4,30144 GENGIBRE EM LASCAS IMP.,20.0,20.0,avista
+fornecedor4,30071 GENGIBRE EM PÓ ( 100% PURO ) IMP.,10.0,10.0,avista
+fornecedor4,20023 GERGELIM BRANCO DESP. INDIANO TIPO 01 IMP.,25.0,25.0,avista
+fornecedor4,50455 GERGELIM BRANCO DESP. NACIONAL,25.0,25.0,avista
+fornecedor4,"10359 GERGELIM COM CASCA ( TORRADO ) (ST/ AL, MG)",5.0,5.0,avista
+fornecedor4,20022 GERGELIM COM CASCA NATURAL ( NACIONAL ),25.0,25.0,avista
+fornecedor4,52850 GERGELIM MIX SUSHI (4PCX,1.0,4.0,avista
+fornecedor4,20090 GERGELIM PRETO INDIANO IMP.,25.0,25.0,avista
+fornecedor4,20024 GERGELIM PRETO NACIONAL,25.0,25.0,avista
+fornecedor4,20077 GÉRMEN DE TRIGO CRU,25.0,25.0,avista
+fornecedor4,50837 GÉRMEN DE TRIGO TORRADO,25.0,25.0,avista
+fornecedor4,30191 GIN,5.0,5.0,avista
+fornecedor4,30093 GINSENG PÓ ( 100% PURO ),10.0,10.0,avista
+fornecedor4,40036 GIRASSOL C/C GRAÚDO 11MM ( NACIONAL ),20.0,20.0,avista
+fornecedor4,40004 GIRASSOL C/C MIÚDO NACIONAL,30.0,30.0,avista
+fornecedor4,52611 GLUCOMANNAN (TIPO 1),5.0,5.0,avista
+fornecedor4,53080 GLUCOMANNAN 50% + 50% AMIDO DE MILHO,25.0,25.0,avista
+fornecedor4,52851 GLUCOMANNAN 50% + 50% AMIDO DE MILHO,5.0,5.0,avista
+fornecedor4,30151 GLUTAMATO MONOSSÓDICO IMP.,25.0,25.0,avista
+fornecedor4,10354 GLUTAMINA EM PO,5.0,5.0,avista
+fornecedor4,10259 GOIABA VERMELHA COM AÇÚCAR ( DESIDRATADA ) 5,5.0,5.0,avista
+fornecedor4,50081 GOIABA VERMELHA SEM AÇÚCAR ( DESIDRATADA ) 5,5.0,5.0,avista
+fornecedor4,10114 GOJI BERRY IMP.,10.0,10.0,avista
+fornecedor4,10364 GOMA XANTANA 200 MESH,5.0,5.0,avista
+fornecedor4,10079 GRANOLA ( COM ) AÇÚCAR (C/FRUTAS) (PRINAT),10.0,10.0,avista
+fornecedor4,10080 GRANOLA ( SEM ) AÇÚCAR (C/FRUTAS) (PRINAT),10.0,10.0,avista
+fornecedor4,51426,10.0,10.0,avista
+fornecedor4,10215 GRANOLA BANANA/MEL MARCA CRÓQUI (10PC X 1K) 10,10.0,10.0,avista
+fornecedor4,50703 GRANOLA COM AMÊNDOAS E CASTANHA (PRINAT) 10,10.0,10.0,avista
+fornecedor4,10219 GRANOLA ORIGINAL MARCA CRÓQUI (10PC X 1K),10.0,10.0,avista
+fornecedor4,10257 GRANOLA SABOR CHOCOLATE (PRINAT),10.0,10.0,avista
+fornecedor4,"10258 GRANOLA SABOR MAÇÃ,BANANA,CANELA (PRINAT) 10",10.0,10.0,avista
+fornecedor4,10270 GRANOLA SALGADA ( LEMON PEPPER ) (PRINAT),10.0,10.0,avista
+fornecedor4,20044 GRÃO DE BICO 12 MM ( MEXICANO ) IMP.,25.0,25.0,avista
+fornecedor4,51424 GRÃO DE BICO 13 MM ( MEXICANO ) IMP.,25.0,25.0,avista
+fornecedor4,"20087 GRÃO DE BICO 7,0 MM ( ARGENTINO ) IMP.",25.0,7.0,avista
+fornecedor4,"20065 GRÃO DE BICO 8,0 MM ( ARGENTINO ) IMP.",25.0,8.0,avista
+fornecedor4,"20025 GRÃO DE BICO 9,0 MM ( ARGENTINO ) IMP.",25.0,9.0,avista
+fornecedor4,10397,14.0,14.0,avista
+fornecedor4,10396,14.0,14.0,avista
+fornecedor4,40030,5.0,5.0,avista
+fornecedor4,10061 GUARANÁ EM PÓ,10.0,10.0,avista
+fornecedor4,"30074 HIBISCO EM PÓ (ST/ AL, MG, RJ)",10.0,10.0,avista
+fornecedor4,"30007 HIBISCO FLOR IMP. (ST/ AL, MG, RJ)",25.0,25.0,avista
+fornecedor4,"30007 HIBISCO FLOR IMP. (ST/ AL, MG, RJ)",25.0,25.0,avista
+fornecedor4,"30007 HIBISCO FLOR IMP. (ST/ AL, MG, RJ)",25.0,25.0,avista
+fornecedor4,"20350 HIBISCO QUEBRADO IMP. (ST/ AL, MG, RJ)",25.0,25.0,avista
+fornecedor4,"20350 HIBISCO QUEBRADO IMP. (ST/ AL, MG, RJ)",25.0,25.0,avista
+fornecedor4,"20350 HIBISCO QUEBRADO IMP. (ST/ AL, MG, RJ)",25.0,25.0,avista
+fornecedor4,"30039 HORTELÃ IMP. (ST/ AL, MG, RJ)",25.0,25.0,avista
+fornecedor4,"30039 HORTELÃ IMP. (ST/ AL, MG, RJ)",25.0,25.0,avista
+fornecedor4,"30039 HORTELÃ IMP. (ST/ AL, MG, RJ)",25.0,25.0,avista
+fornecedor4,52836,25.0,25.0,avista
+fornecedor4,52868 JACA CHIPS (ST MG),7.0,7.0,avista
+fornecedor4,50541 KIWI DESIDRATADO FATIADO IMP.,10.0,10.0,avista
+fornecedor4,10255 LARANJA ( EM TIRAS ) CRISTALIZADA,5.0,5.0,avista
+fornecedor4,10075 LARANJA CRISTALIZADA ( EM CASCAS ),5.0,5.0,avista
+fornecedor4,50009 LARANJA FATIADA DESIDRATADA,5.0,5.0,avista
+fornecedor4,10195 LEITE DE COCO EM PÓ ( 100% VEGANO ) IMP.,15.0,15.0,avista
+fornecedor4,52905 LEITE DE COCO EM PÓ ( 100% VEGANO ) IMP.,5.0,5.0,avista
+fornecedor4,10197 LEITE DE COCO EM PÓ ( NÃO VEGANO ) IMP.,15.0,15.0,avista
+fornecedor4,52906 LEITE DE COCO EM PÓ ( NÃO VEGANO ) IMP.,5.0,5.0,avista
+fornecedor4,40012 LEMON ERVAS FINAS IMP.,5.0,5.0,avista
+fornecedor4,30105 LEMON PEPPER,10.0,10.0,avista
+fornecedor4,20007 LENTILHA VERDE CANADENSE TIPO 1 IMP.,45.36,45.36,avista
+fornecedor4,50502 LENTILHA VERMELHA CANADENSE IMP.,45.36,45.36,avista
+fornecedor4,52747 LEVEDO DE CERVEJA ( CONSUMO HUMANO ),20.0,20.0,avista
+fornecedor4,50014 LIMÃO FATIADO DESIDRATADO,5.0,5.0,avista
+fornecedor4,10256 LIMÃO SICILIANO ( EM TIRAS ) CRISTALIZADO,5.0,5.0,avista
+fornecedor4,20094 LINHAÇA DOURADA NACIONAL,25.0,25.0,avista
+fornecedor4,20096 LINHAÇA MARROM IMP.,25.0,25.0,avista
+fornecedor4,51444 LOURO EM FOLHAS (SELECIONADO) TURCO IMP.,10.0,10.0,avista
+fornecedor4,51444 LOURO EM FOLHAS (SELECIONADO) TURCO IMP.,10.0,10.0,avista
+fornecedor4,51444 LOURO EM FOLHAS (SELECIONADO) TURCO IMP.,10.0,10.0,avista
+fornecedor4,52232,25.0,25.0,avista
+fornecedor4,52232,25.0,25.0,avista
+fornecedor4,52232,25.0,25.0,avista
+fornecedor4,30155,25.0,25.0,avista
+fornecedor4,30155,25.0,25.0,avista
+fornecedor4,30155,25.0,25.0,avista
+fornecedor4,30038 LOURO EM PÓ IMP.,10.0,10.0,avista
+fornecedor4,30038 LOURO EM PÓ IMP.,10.0,10.0,avista
+fornecedor4,30038 LOURO EM PÓ IMP.,10.0,10.0,avista
+fornecedor4,10260 MAÇÃ DESIDRATADA RODELAS ( COM AÇÚCAR ),5.0,5.0,avista
+fornecedor4,50542 MAÇÃ DESIDRATADA RODELAS ( SEM AÇÚCAR ) IMP. 10,10.0,10.0,avista
+fornecedor4,50082 MAÇÃ DESIDRATADA RODELAS ( SEM AÇÚCAR ) IMP. 5,5.0,5.0,avista
+fornecedor4,53011 MACADÂMIA TORRADA ( SEM SAL ) NACIONAL,5.0,5.0,avista
+fornecedor4,53010 MACADÂMIA TORRADA E SALGADA NACIONAL,5.0,5.0,avista
+fornecedor4,10369 MALTITOL CRYSTAL MESH 20/40 IMP.,10.0,10.0,avista
+fornecedor4,20080 MAMÃO CRISTALIZADO,5.0,5.0,avista
+fornecedor4,10350,10.0,10.0,avista
+fornecedor4,52907,5.0,5.0,avista
+fornecedor4,52817 MANDIOCA CHIPS SALGADA,6.0,6.0,avista
+fornecedor4,10264 MANGA SECA DES. ( COM AÇÚCAR ),5.0,5.0,avista
+fornecedor4,50067 MANGA SECA DES. ( SEM AÇÚCAR ) NAC.,5.0,5.0,avista
+fornecedor4,30042 MANJERICÃO IMP.,25.0,25.0,avista
+fornecedor4,30042 MANJERICÃO IMP.,25.0,25.0,avista
+fornecedor4,30042 MANJERICÃO IMP.,25.0,25.0,avista
+fornecedor4,30247 MANJERONA IMP.,25.0,25.0,avista
+fornecedor4,30247 MANJERONA IMP.,25.0,25.0,avista
+fornecedor4,30247 MANJERONA IMP.,25.0,25.0,avista
+fornecedor4,10209 MARAPUAMA EM PÓ ( 100% PURA ),10.0,10.0,avista
+fornecedor4,30100,5.0,5.0,avista
+fornecedor4,50764,5.0,5.0,avista
+fornecedor4,20030 MILHO DE PIPOCA ( RED FOX ),23.0,23.0,avista
+fornecedor4,20053 MILHO DE PIPOCA NACIONAL,25.0,25.0,avista
+fornecedor4,50505,10.0,10.0,avista
+fornecedor4,52107,10.0,10.0,avista
+fornecedor4,52932,20.0,20.0,avista
+fornecedor4,10238,10.0,10.0,avista
+fornecedor4,52106,10.0,10.0,avista
+fornecedor4,52931,20.0,20.0,avista
+fornecedor4,10241,10.0,10.0,avista
+fornecedor4,10240,10.0,10.0,avista
+fornecedor4,50298,10.0,10.0,avista
+fornecedor4,50803,10.0,10.0,avista
+fornecedor4,52981 MIX DE COGUMELOS CHIPS,5.0,5.0,avista
+fornecedor4,30245 MIX DE FRUTAS ( DESIDRATADA ),5.0,5.0,avista
+fornecedor4,"52631 MIX DE FRUTAS TROPICAL CHIPS IMP. (ST AL,MG)",5.0,5.0,avista
+fornecedor4,30237 MIX DE FRUTAS VERMELHAS ( DESIDRATADA ),5.0,5.0,avista
+fornecedor4,30239,5.0,5.0,avista
+fornecedor4,52900,5.0,5.0,avista
+fornecedor4,50312 MIX DE VEGETAIS CHIPS PREMIUM IMP.,5.0,5.0,avista
+fornecedor4,52883 MORANGO CHIPS (ST MG),5.0,5.0,avista
+fornecedor4,50507 MORANGO DESIDRATADO GLACEADO IMP. (ST MG) 10,10.0,10.0,avista
+fornecedor4,52908 MORANGO DESIDRATADO GLACEADO IMP. (ST MG),5.0,5.0,avista
+fornecedor4,51236 MOSTARDA AMARELA GRÃO CANADENSE,25.0,25.0,avista
+fornecedor4,30196 MOSTARDA AMARELA GRÃO CANADENSE,45.36,45.36,avista
+fornecedor4,30123 MOSTARDA EM PÓ AMARELA 100% PURA IMP.,10.0,10.0,avista
+fornecedor4,30143,5.0,5.0,avista
+fornecedor4,53126 NIBS DE CACAU,5.0,5.0,avista
+fornecedor4,30044 NOZ MOSCADA EM PÓ FECULADA,10.0,10.0,avista
+fornecedor4,30045 NOZ MOSCADA INTEIRA NOVA IMP.,25.0,25.0,avista
+fornecedor4,52065 NOZ MOSCADA INTEIRA NOVA IMP.,5.0,5.0,avista
+fornecedor4,52849 NOZ MOSCADA PÓ ( 100% PURA ) IMP.,5.0,5.0,avista
+fornecedor4,30048 NOZ MOSCADA QUEBRADA IMP.,25.0,25.0,avista
+fornecedor4,10007,10.0,10.0,avista
+fornecedor4,52909,5.0,5.0,avista
+fornecedor4,50526,10.0,10.0,avista
+fornecedor4,53139,5.0,5.0,avista
+fornecedor4,"50987 NOZES PECAN AGRIDOCE INTEIRA (ST AL,MG)",5.0,5.0,avista
+fornecedor4,52910 NOZES PECAN PEDAÇOS ( 5 UNID X,1.0,5.0,avista
+fornecedor4,10247 NOZES PECAN PEDAÇOS,10.0,10.0,avista
+fornecedor4,53076 NOZES QUARTILHOS EXTRA LIGHT ARG SAFRA NOVA 5 Chegou,5.0,5.0,avista
+fornecedor4,10147 Chegou,10.0,10.0,avista
+fornecedor4,50268,10.0,10.0,avista
+fornecedor4,10037 NOZES QUARTS EXTRA LIGHT CHILE SAFRA NOVA 10 Chegou,10.0,10.0,avista
+fornecedor4,52912 NOZES QUARTS EXTRA LIGHT CHILE SAFRA NOVA,5.0,5.0,avista
+fornecedor4,52870 ÓLEO DE GERGELIM TORRADO (24UNX150ML),4.0,5.0,avista
+fornecedor4,52924 ORANGE PEPPER,5.0,5.0,avista
+fornecedor4,30086 ORÉGANO ARGENTINO TIPO 01,12.0,12.0,avista
+fornecedor4,30086 ORÉGANO ARGENTINO TIPO 01,12.0,12.0,avista
+fornecedor4,30086 ORÉGANO ARGENTINO TIPO 01,12.0,12.0,avista
+fornecedor4,50065 ORÉGANO EGÍPCIO IMP.,25.0,25.0,avista
+fornecedor4,50065 ORÉGANO EGÍPCIO IMP.,25.0,25.0,avista
+fornecedor4,50065 ORÉGANO EGÍPCIO IMP.,25.0,25.0,avista
+fornecedor4,30225 ORÉGANO PERUANO (100% PURO) IMP.,12.5,12.5,avista
+fornecedor4,30225 ORÉGANO PERUANO (100% PURO) IMP.,12.5,12.5,avista
+fornecedor4,30225 ORÉGANO PERUANO (100% PURO) IMP.,12.5,12.5,avista
+fornecedor4,30049 ORÉGANO PERUANO 70/30 IMP.,12.5,12.5,avista
+fornecedor4,30049 ORÉGANO PERUANO 70/30 IMP.,12.5,12.5,avista
+fornecedor4,30049 ORÉGANO PERUANO 70/30 IMP.,12.5,12.5,avista
+fornecedor4,10181 PAINÇO COMUM C/C ( NACIONAL ),25.0,25.0,avista
+fornecedor4,52153 PAINÇO DESCASCADO (CONSUMO HUMANO),5.0,5.0,avista
+fornecedor4,40022 PAINÇO PORTUGUÊS C/C ( NACIONAL ),25.0,25.0,avista
+fornecedor4,40023 PAINÇO PRETO C/C IMP.,25.0,25.0,avista
+fornecedor4,40042 PAINÇO VERDE C/C ( NACIONAL ),25.0,25.0,avista
+fornecedor4,40025 PAINÇO VERMELHO C/C IMP.,25.0,25.0,avista
+fornecedor4,50213 PÁPRICA ASTA 120 IMP.,10.0,10.0,avista
+fornecedor4,30128 PÁPRICA DEFUMADA IMP.,10.0,10.0,avista
+fornecedor4,40006 PÁPRICA DOCE ASTA 80 ( 100% PURA ) IMP.,10.0,10.0,avista
+fornecedor4,30036 PÁPRICA DOCE NACIONAL,10.0,10.0,avista
+fornecedor4,30037 PÁPRICA PICANTE IMP.,10.0,10.0,avista
+fornecedor4,53070 Novidade 12 UN 21.00 252.00 (12X500G),6.7,21.0,avista
+fornecedor4,53074 Novidade 12 UN 21.00 252.00 VIMACEDO (12X500G),6.7,21.0,avista
+fornecedor4,53071 Novidade 12 UN 21.00 252.00 (12X500G),6.7,21.0,avista
+fornecedor4,53072 Novidade 12 UN 21.00 252.00 (12X500G),6.7,21.0,avista
+fornecedor4,53073 Novidade 12 UN 21.00 252.00 (12X500G),6.7,21.0,avista
+fornecedor4,20049,1.0,1.0,avista
+fornecedor4,20031 PEPITA DE GIRASSOL CRUA ARGENTINA IMP.,22.68,22.68,avista
+fornecedor4,20081 PEPITA DE GIRASSOL CRUA BÚLGARA IMP.,25.0,25.0,avista
+fornecedor4,40038,5.0,5.0,avista
+fornecedor4,40018,5.0,5.0,avista
+fornecedor4,52084 PIMENTA BRANCA EM GRÃOS,5.0,5.0,avista
+fornecedor4,52072 PIMENTA BRANCA EM PÓ ( 100% PURA ),5.0,5.0,avista
+fornecedor4,52181 PIMENTA CAIENA PÓ PURA,8.0,8.0,avista
+fornecedor4,50817 PIMENTA CALABRESA EM PÓ 100% PURA,10.0,10.0,avista
+fornecedor4,30052 PIMENTA CALABRESA FLOCOS,25.0,25.0,avista
+fornecedor4,50313 PIMENTA JAMAICA GRÃO NACIONAL,5.0,5.0,avista
+fornecedor4,30054 PIMENTA MOÍDA PRETA,10.0,10.0,avista
+fornecedor4,52729 PIMENTA MOÍDA PRETA PREMIUM,5.0,5.0,avista
+fornecedor4,30094 PIMENTA PRETA EM GRÃO,25.0,25.0,avista
+fornecedor4,30005 PIMENTA PRETA EM GRÃO,5.0,5.0,avista
+fornecedor4,30141 PIMENTA ROSA EM GRÃO,5.0,5.0,avista
+fornecedor4,52137 PIMENTA VERDE JALAPENA EM PÓ,10.0,10.0,avista
+fornecedor4,30241 PIMENTÃO VERDE EM FLOCOS ( 5MM ) IMP.,20.0,20.0,avista
+fornecedor4,10104 PIMENTÃO VERDE EM FLOCOS ( 5MM ) IMP.,5.0,5.0,avista
+fornecedor4,30235 PIMENTÃO VERMELHO EM FLOCOS ( 5MM ) IMP.,20.0,20.0,avista
+fornecedor4,30254 PIMENTÃO VERMELHO EM FLOCOS ( 5MM ) IMP.,5.0,5.0,avista
+fornecedor4,50295,10.0,10.0,avista
+fornecedor4,52913,5.0,5.0,avista
+fornecedor4,10169,10.0,10.0,avista
+fornecedor4,53012,5.0,5.0,avista
+fornecedor4,10383 PISTACHE CRU S/C INTEIRO AMERICANO IMP.,10.0,10.0,avista
+fornecedor4,52914 PISTACHE CRU S/C INTEIRO AMERICANO IMP.,5.0,5.0,avista
+fornecedor4,10084 PISTACHE CRU S/C INTEIRO IRANIANO IMP.,10.0,10.0,avista
+fornecedor4,52915 PISTACHE CRU S/C INTEIRO IRANIANO IMP.,5.0,5.0,avista
+fornecedor4,50315 PISTACHE CRU S/C METADES AMERICANO IMP.,10.0,10.0,avista
+fornecedor4,52916 PISTACHE CRU S/C METADES AMERICANO IMP.,5.0,5.0,avista
+fornecedor4,52092 PISTACHE CRU S/C METADES IRANIANO IMP.,10.0,10.0,avista
+fornecedor4,52917 PISTACHE CRU S/C METADES IRANIANO IMP.,5.0,5.0,avista
+fornecedor4,52332,5.0,5.0,avista
+fornecedor4,52184,5.0,5.0,avista
+fornecedor4,52064,5.0,5.0,avista
+fornecedor4,10086 POLVILHO AZEDO ( BRASIL ),25.0,25.0,avista
+fornecedor4,10087,25.0,25.0,avista
+fornecedor4,52973,25.0,25.0,avista
+fornecedor4,53077 PROTEÍNA DE SOJA CARAMELO HTTEX (2 A 6 MM),20.0,20.0,avista
+fornecedor4,53079,15.0,15.0,avista
+fornecedor4,50241,10.0,10.0,avista
+fornecedor4,10235,20.0,20.0,avista
+fornecedor4,53078 PROTEÍNA DE SOJA NATURAL HTTEX (2 A 6 MM),20.0,20.0,avista
+fornecedor4,50240,10.0,10.0,avista
+fornecedor4,52151 PSYLLIUM EM PÓ IMP.,10.0,10.0,avista
+fornecedor4,50828 PSYLLIUM HUSK 60% COM ICMS IMP.,10.0,10.0,avista
+fornecedor4,30102 PSYLLIUM HUSK 80% COM ICMS IMP.,10.0,10.0,avista
+fornecedor4,50550 PSYLLIUM HUSK 90 % COM ICMS IMP.,10.0,10.0,avista
+fornecedor4,52898 PSYLLIUM HUSK 99 % COM ICMS IMP.,10.0,10.0,avista
+fornecedor4,53170 QUIABO CHIPS IMP.,4.0,4.0,avista
+fornecedor4,50830 QUINOA CRISPY '' BRANCA '' PERUANA IMP.,5.0,5.0,avista
+fornecedor4,20043 QUINOA EM FLOCOS '' BRANCA '' PERUANA IMP.,25.0,25.0,avista
+fornecedor4,20033 QUINOA GRÃO '' BRANCA '' NACIONAL,25.0,25.0,avista
+fornecedor4,20063 QUINOA GRÃO '' BRANCA '' PERUANA IMP.,25.0,25.0,avista
+fornecedor4,20093 QUINOA GRÃO '' MISTA '' PERUANA IMP.,25.0,25.0,avista
+fornecedor4,20083 QUINOA GRÃO '' PRETA '' ( PERUANA ),25.0,25.0,avista
+fornecedor4,20084 QUINOA GRÃO '' VERMELHA '' PERUANA IMP.,25.0,25.0,avista
+fornecedor4,20073 QUIRERA FINA ( MILHO ),25.0,25.0,avista
+fornecedor4,20072 QUIRERA MÉDIA ( MILHO ),25.0,25.0,avista
+fornecedor4,20036 SAGU ( MARCA OLINDA ),25.0,25.0,avista
+fornecedor4,52869 SAL MARINHO INTEGRAL (15PCTX,1.0,15.0,avista
+fornecedor4,10208 SAL NEGRO FINO DO HIMALAIA IMP.,10.0,10.0,avista
+fornecedor4,10332 4 UN 27.50,110.0,27.5,avista
+fornecedor4,10122 SAL ROSA DO HIMALAIA FINO ( IODADO ) IMP.,10.0,10.0,avista
+fornecedor4,10123 SAL ROSA DO HIMALAIA GROSSO ( IODADO ) IMP.,10.0,10.0,avista
+fornecedor4,50344 SAL TIPO PARRILHA ( NACIONAL ),25.0,25.0,avista
+fornecedor4,50352 SAL TIPO PARRILHA NACIONAL C/ ALHO FRITO,10.0,10.0,avista
+fornecedor4,50374 SAL TIPO PARRILHA NACIONAL C/ LEMON PEPPER 10,10.0,10.0,avista
+fornecedor4,50351,10.0,10.0,avista
+fornecedor4,50350,10.0,10.0,avista
+fornecedor4,10385 SALGANTE ( SAL ) ZERO SODIO,10.0,10.0,avista
+fornecedor4,30253,25.0,25.0,avista
+fornecedor4,30192 SALSA DESIDRATADA NACIONAL,5.0,5.0,avista
+fornecedor4,30192 SALSA DESIDRATADA NACIONAL,5.0,5.0,avista
+fornecedor4,52820 SÁLVIA,20.0,20.0,avista
+fornecedor4,20056,5.0,5.0,avista
+fornecedor4,20078,5.0,5.0,avista
+fornecedor4,10371,5.0,5.0,avista
+fornecedor4,10090,25.0,25.0,avista
+fornecedor4,10376,25.0,25.0,avista
+fornecedor4,52918 Chegou,5.0,5.0,avista
+fornecedor4,10191,25.0,25.0,avista
+fornecedor4,20001 SEMENTE DE CHIA ( COMERCIAL ),25.0,25.0,avista
+fornecedor4,50882 SEMENTE DE CHIA PRETA,10.0,10.0,avista
+fornecedor4,20086 SEMENTE DE CHIA TIPO 1,25.0,25.0,avista
+fornecedor4,"50071 SENE EM FOLHA TIPO 01 IMP.(ST/ AL, MG, RJ)",25.0,25.0,avista
+fornecedor4,"50071 SENE EM FOLHA TIPO 01 IMP.(ST/ AL, MG, RJ)",25.0,25.0,avista
+fornecedor4,"50071 SENE EM FOLHA TIPO 01 IMP.(ST/ AL, MG, RJ)",25.0,25.0,avista
+fornecedor4,"30091 SENE EM PÓ 100% PURO IMP. (ST/ AL, MG, RJ)",10.0,10.0,avista
+fornecedor4,"30091 SENE EM PÓ 100% PURO IMP. (ST/ AL, MG, RJ)",10.0,10.0,avista
+fornecedor4,"30091 SENE EM PÓ 100% PURO IMP. (ST/ AL, MG, RJ)",10.0,10.0,avista
+fornecedor4,40029 SENHA PARA PÁSSAROS,40.0,40.0,avista
+fornecedor4,52884 SHITAKE CHIPS (ST MG),5.0,5.0,avista
+fornecedor4,20040 SOJA EM GRÃO,50.0,50.0,avista
+fornecedor4,20040 SOJA EM GRÃO,50.0,50.0,avista
+fornecedor4,20076 SPIRULINA EM PÓ IMP.,10.0,10.0,avista
+fornecedor4,52921,5.0,5.0,avista
+fornecedor4,10093 TÂMARA COM CAROÇO TUNÍSIA MARCA EL MONAGUILO,5.0,5.0,avista
+fornecedor4,10133 TÂMARA MEDJOUL JUMBO FRESCA C/CAROÇO,5.0,5.0,avista
+fornecedor4,10133 TÂMARA MEDJOUL JUMBO FRESCA C/CAROÇO,5.0,5.0,avista
+fornecedor4,50984 TÂMARA MEDJOUL MÉDIA FRESCA C/CAROÇO,5.0,5.0,avista
+fornecedor4,50984 TÂMARA MEDJOUL MÉDIA FRESCA C/CAROÇO,5.0,5.0,avista
+fornecedor4,10094,5.0,5.0,avista
+fornecedor4,10095 TAPIOCA GRANULADA,25.0,25.0,avista
+fornecedor4,10128 TAPIOCA PRONTA PANTANAL ( 10 PCT DE,1.0,10.0,avista
+fornecedor4,40013 TEMPERO ANA MARIA,5.0,5.0,avista
+fornecedor4,30035 TEMPERO BAIANO,10.0,10.0,avista
+fornecedor4,10048 TEMPERO DO CHEFE COM CURRY,5.0,5.0,avista
+fornecedor4,20017 TEMPERO DO CHEFE COM PÁPRICA,5.0,5.0,avista
+fornecedor4,40014 TEMPERO DO EDU ( COM SAL ROSA ),5.0,5.0,avista
+fornecedor4,30132 TEMPERO FIT CARNE,10.0,10.0,avista
+fornecedor4,30129 TEMPERO FIT COMPLETO,10.0,10.0,avista
+fornecedor4,10018 TEMPERO FIT FRANGO,5.0,5.0,avista
+fornecedor4,30133 TEMPERO FIT NATURAL,10.0,10.0,avista
+fornecedor4,30130 TEMPERO FIT PEIXE,10.0,10.0,avista
+fornecedor4,50128 TEMPERO GAUCHO,5.0,5.0,avista
+fornecedor4,10194 TEMPERO GOURMET,5.0,5.0,avista
+fornecedor4,52375 TEMPERO ITALIANO PREMIUM ( SEM GLUTAMATO ),5.0,5.0,avista
+fornecedor4,52369,5.0,5.0,avista
+fornecedor4,40015 TEMPERO PARA FEIJÃO,5.0,5.0,avista
+fornecedor4,30163 TEMPERO PARA FRANGO,10.0,10.0,avista
+fornecedor4,50456 TEMPERO PEGA ESPOSA,5.0,5.0,avista
+fornecedor4,40016 TEMPERO PEGA MARIDO,5.0,5.0,avista
+fornecedor4,40017 TEMPERO SALSA / CEBOLA E ALHO,5.0,5.0,avista
+fornecedor4,10348 TEMPERO SÍRIO ( BA-HAR ),5.0,5.0,avista
+fornecedor4,10210 TEMPERO TÁRTARO,5.0,5.0,avista
+fornecedor4,50709 TEMPERO TEMPERA TUDO,10.0,10.0,avista
+fornecedor4,30165 TEMPERO ZATTAR,10.0,10.0,avista
+fornecedor4,50066 TOMATE EM FLOCOS 5MM CHINÊS TIPO 01 IMP.,20.0,20.0,avista
+fornecedor4,52302 TOMATE SECO METADES EGÍPCIO IMP. ( NOVO ),10.0,10.0,avista
+fornecedor4,10096,10.0,10.0,avista
+fornecedor4,30182 TOMILHO DESIDRATADO IMP.,25.0,25.0,avista
+fornecedor4,30182 TOMILHO DESIDRATADO IMP.,25.0,25.0,avista
+fornecedor4,30182 TOMILHO DESIDRATADO IMP.,25.0,25.0,avista
+fornecedor4,20008 TRIGO EM GRÃO ( CONSUMO HUMANO ),25.0,25.0,avista
+fornecedor4,20009 TRIGO P/ KIBE ( MARROCOS ),25.0,25.0,avista
+fornecedor4,10110 UVA PASSA BRANCA IRANIANA IMP.,10.0,10.0,avista
+fornecedor4,50416 UVA PASSA BRANCA IRANIANA IMP.,5.0,5.0,avista
+fornecedor4,10030,12.5,12.5,avista
+fornecedor4,53121,5.0,5.0,avista
+fornecedor4,10400,5.0,5.0,avista
+fornecedor4,10228 UVA PASSA PRETA ARGENTINA IMP.,10.0,10.0,avista
+fornecedor4,10006 UVA PASSA PRETA GLEBA ARGENTINA,10.0,10.0,avista
+fornecedor4,52062 UVA PASSA PRETA UZBEQUISTÃO SAFRA 2024 IMP. 10,10.0,10.0,avista
+fornecedor4,10278 VINAGRETE FLOCOS,5.0,5.0,avista
+fornecedor4,20016 WHEY PROTEIN CONCENTRADO 80%,5.0,5.0,avista
+fornecedor4,"10355 XERÉM DE AMENDOIM ( G2T ) (ST AL, MG)",25.0,25.0,avista
+fornecedor4,"10284 XERÉM DE CAJU ( G2T ) (ST AL, MG)",11.34,11.34,avista
+fornecedor4,"10285 XERÉM DE CAJU ( X2T ) (ST AL, MG)",11.34,11.34,avista
+fornecedor4,10233 XYLITOL CRYSTAL IMP. MESH 12/26,10.0,10.0,avista
+fornecedor4,10232 XYLITOL REFINADO IMP.,10.0,10.0,avista
+fornecedor4,53118 XYLITOL REFINADO IMP.,5.0,5.0,avista
+fornecedor4,52078,5.0,5.0,avista

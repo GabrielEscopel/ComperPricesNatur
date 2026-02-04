@@ -6,6 +6,20 @@ from typing import List, Optional
 
 from .domain import ProdutoDesejado
 
+def normalize_name(text: str) -> str:
+    """
+    Normaliza nome para facilitar comparação:
+    - strip, lower
+    - remove acentos
+    - remove espaços duplicados
+    """
+    text = text.strip().lower()
+    text = unicodedata.normalize("NFKD", text)
+    text = "".join(ch for ch in text if not unicodedata.combining(ch))
+    text = " ".join(text.split())
+    return text
+
+
 
 def _normalize_name(text: str) -> str:
     """

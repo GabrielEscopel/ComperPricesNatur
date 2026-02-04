@@ -1,0 +1,5 @@
+produto,demanda_kg,fornecedor,nome_pdf,match_score,embalagem_kg,preco_por_kg,pacotes,qtd_comprada_kg,custo_total,tipo_preco
+castanha do para,20.0,fornecedor4,53045 CASTANHA DO PARÁ S/C LARGE,0.842,5.0,5.0,4,20.0,100.0,avista
+chia,10.0,fornecedor4,52884 SHITAKE CHIPS (ST MG),0.56,5.0,5.0,2,10.0,50.0,avista
+aveia em flocos,20.0,fornecedor4,10278 VINAGRETE FLOCOS,0.645,5.0,5.0,4,20.0,100.0,avista
+farinha de trigo,50.0,fornecedor4,20051 FARINHA DE TÂMARA ( AÇÚCAR ) IMP.,0.757,5.0,5.0,10,50.0,250.0,avista
